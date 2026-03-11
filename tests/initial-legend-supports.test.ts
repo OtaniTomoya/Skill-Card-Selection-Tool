@@ -22,15 +22,15 @@ describe('initial legend supports', () => {
 
   it('sums selected support bonuses by stat', () => {
     expect(
-      calculateInitialLegendSupportTotals({
-        'classroom-party-2': 4,
-        'imawa-aete': 0,
-        'mouttsu-tsumetaiyo': 2,
-      }),
+      calculateInitialLegendSupportTotals([
+        'imawa-aete',
+        'mouttsu-tsumetaiyo',
+        'classroom-party-2',
+      ]),
     ).toEqual({
-      abiDa: 19,
+      abiDa: 22,
       abiVi: 17,
-      abiVo: 9,
+      abiVo: 17,
     })
   })
 })

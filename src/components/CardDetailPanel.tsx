@@ -7,8 +7,6 @@ import {
   getCustomizationTotalCount,
   MEMORY_STATE_LABELS,
 } from '../lib/memory-selections'
-import { withBasePath } from '../lib/assets'
-import { getCardPagePath } from '../lib/site'
 import type {
   Card,
   CardCustomizationSpec,
@@ -103,12 +101,6 @@ export function CardDetailPanel({
           {visibleTags.map((tag) => (
             <span key={tag}>{tag}</span>
           ))}
-        </div>
-        <div className="detail-panel__links">
-          <a href={withBasePath(getCardPagePath(card.id))}>このカードの個別ページ</a>
-          <a href={card.sourceUrl} rel="noreferrer" target="_blank">
-            元データを開く
-          </a>
         </div>
         {memorySelection ? (
           <section className="detail-panel__section">

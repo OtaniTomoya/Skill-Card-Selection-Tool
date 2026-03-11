@@ -1,10 +1,5 @@
 export function withBasePath(path: string): string {
-  const meta = import.meta as ImportMeta & {
-    env?: {
-      BASE_URL?: string
-    }
-  }
-  const base = meta.env?.BASE_URL ?? process.env.BASE_PATH ?? '/'
+  const base = import.meta.env.BASE_URL
 
   if (/^(?:https?:)?\/\//.test(path)) {
     return path

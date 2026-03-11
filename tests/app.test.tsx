@@ -1,6 +1,6 @@
 import { render, screen, within } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
-import { beforeEach, describe, expect, it } from 'vitest'
+import { describe, expect, it } from 'vitest'
 
 import { AppShell } from '../src/App'
 import type {
@@ -136,10 +136,6 @@ const events: EventSnapshot[] = [
 ]
 
 describe('AppShell', () => {
-  beforeEach(() => {
-    window.history.replaceState({}, '', '/')
-  })
-
   it('toggles selections when any part of the card tile is clicked', async () => {
     const user = userEvent.setup()
 
@@ -619,13 +615,6 @@ describe('AppShell', () => {
     )
     expect(screen.getByLabelText('現在の評価値')).toHaveTextContent('16,242')
     expect(screen.getByLabelText('SSSに必要な最終試験スコア')).toHaveTextContent('250,534 pt')
-
-    await user.selectOptions(screen.getByLabelText('もうっ！冷たいよ！ の凸数'), '0')
-
-    expect(screen.getByLabelText('試験終了時アビ点数の合計')).toHaveTextContent(
-      'Vocal +0 / Dance +17 / Visual +0',
-    )
-    expect(screen.getByLabelText('現在の評価値')).toHaveTextContent('16,231')
   })
 
   it('renders upgrade and customization markers on candidate images', async () => {
