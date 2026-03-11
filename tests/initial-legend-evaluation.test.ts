@@ -73,7 +73,7 @@ describe('initial legend evaluation', () => {
         abiDa: 0,
         abiVi: 0,
         abiVo: 0,
-        finalRank: 0,
+        finalRank: 1,
         finalScore: 0,
         midScore: 0,
         preDa: 0,

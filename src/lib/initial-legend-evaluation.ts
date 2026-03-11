@@ -247,8 +247,7 @@ export function calculateInitialLegendEvaluation(
     normalizedInput.abiDa === 0 &&
     normalizedInput.abiVi === 0 &&
     normalizedInput.midScore === 0 &&
-    normalizedInput.finalScore === 0 &&
-    normalizedInput.finalRank === 0
+    normalizedInput.finalScore === 0
 
   if (isEmpty) {
     return {

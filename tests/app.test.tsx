@@ -586,22 +586,35 @@ describe('AppShell', () => {
     expect(screen.getByLabelText('SSSに必要な最終試験スコア')).toHaveTextContent('-')
     expect(screen.getByLabelText('SSS+に必要な最終試験スコア')).toHaveTextContent('-')
     expect(screen.getByLabelText('S4に必要な最終試験スコア')).toHaveTextContent('-')
+    expect(screen.queryByLabelText('最終試験スコア')).not.toBeInTheDocument()
+    expect(screen.queryByLabelText('最終試験順位')).not.toBeInTheDocument()
+    expect(
+      screen.queryByText('最終試験スコアを入れると現在評価値も確認できます。'),
+    ).not.toBeInTheDocument()
 
     await user.type(screen.getByLabelText('最終試験前 Vocal'), '1800')
     await user.type(screen.getByLabelText('最終試験前 Dance'), '1800')
     await user.type(screen.getByLabelText('最終試験前 Visual'), '1800')
-    await user.type(screen.getByLabelText('試験終了時アビ点数 Vocal'), '100')
-    await user.type(screen.getByLabelText('試験終了時アビ点数 Dance'), '100')
-    await user.type(screen.getByLabelText('試験終了時アビ点数 Visual'), '100')
     await user.type(screen.getByLabelText('中間試験スコア'), '30000')
-    await user.type(screen.getByLabelText('最終試験スコア'), '250000')
-    await user.selectOptions(screen.getByLabelText('最終試験順位'), '1')
 
-    expect(screen.getByLabelText('現在の評価値')).toHaveTextContent('20,576')
-    expect(screen.getByLabelText('現在ランク')).toHaveTextContent('SSS')
-    expect(screen.getByLabelText('SSSに必要な最終試験スコア')).toHaveTextContent('211,600 pt')
-    expect(screen.getByLabelText('SSS+に必要な最終試験スコア')).toHaveTextContent('467,400 pt')
+    expect(screen.getByLabelText('現在の評価値')).toHaveTextContent('16,196')
+    expect(screen.getByLabelText('現在ランク')).toHaveTextContent('SS')
+    expect(screen.getByLabelText('SSSに必要な最終試験スコア')).toHaveTextContent('253,600 pt')
+    expect(screen.getByLabelText('SSS+に必要な最終試験スコア')).toHaveTextContent('538,000 pt')
     expect(screen.getByLabelText('S4に必要な最終試験スコア')).toHaveTextContent('不可能')
+
+    await user.click(screen.getByRole('checkbox', { name: '有効化' }))
+    expect(screen.getByLabelText('試験終了時アビ点数の合計')).toHaveTextContent(
+      'Vocal +0 / Dance +0 / Visual +0',
+    )
+
+    await user.click(screen.getByRole('checkbox', { name: /もうっ！冷たいよ！/ }))
+
+    expect(screen.getByLabelText('試験終了時アビ点数の合計')).toHaveTextContent(
+      'Vocal +0 / Dance +22 / Visual +0',
+    )
+    expect(screen.getByLabelText('現在の評価値')).toHaveTextContent('16,242')
+    expect(screen.getByLabelText('SSSに必要な最終試験スコア')).toHaveTextContent('250,534 pt')
   })
 
   it('renders upgrade and customization markers on candidate images', async () => {
