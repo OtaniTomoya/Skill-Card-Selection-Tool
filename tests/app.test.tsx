@@ -556,21 +556,52 @@ describe('AppShell', () => {
       return
     }
 
+    expect(resultWorkspace.classList.contains('result-workspace--with-detail')).toBe(false)
+    expect(resultWorkspace.querySelector('.detail-panel')).toBeNull()
+    expect(
+      within(resultWorkspace).queryByText('取得候補をクリックすると、右側に詳細を表示します。'),
+    ).not.toBeInTheDocument()
+
+    await user.click(screen.getByRole('button', { name: '勢い任せを詳細表示' }))
+
     const resultDetailPanel = resultWorkspace.querySelector('.detail-panel')
 
+    expect(resultWorkspace.classList.contains('result-workspace--with-detail')).toBe(true)
     expect(resultDetailPanel).not.toBeNull()
     if (!resultDetailPanel) {
       return
     }
 
-    expect(
-      within(resultDetailPanel).getByText('取得候補をクリックすると、右側に詳細を表示します。'),
-    ).toBeInTheDocument()
-
-    await user.click(screen.getByRole('button', { name: '勢い任せを詳細表示' }))
-
     expect(within(resultDetailPanel).getByText('勢い任せ')).toBeInTheDocument()
     expect(within(resultDetailPanel).getByText('全力値+3')).toBeInTheDocument()
+  })
+
+  it('renders the initial legend calculator and updates evaluation targets', async () => {
+    const user = userEvent.setup()
+
+    render(<AppShell cards={cards} events={events} metadata={metadata} />)
+
+    expect(screen.getByRole('heading', { name: '初レジェンド評価値計算機' })).toBeInTheDocument()
+    expect(screen.getByLabelText('現在の評価値')).toHaveTextContent('0')
+    expect(screen.getByLabelText('SSSに必要な最終試験スコア')).toHaveTextContent('-')
+    expect(screen.getByLabelText('SSS+に必要な最終試験スコア')).toHaveTextContent('-')
+    expect(screen.getByLabelText('S4に必要な最終試験スコア')).toHaveTextContent('-')
+
+    await user.type(screen.getByLabelText('最終試験前 Vocal'), '1800')
+    await user.type(screen.getByLabelText('最終試験前 Dance'), '1800')
+    await user.type(screen.getByLabelText('最終試験前 Visual'), '1800')
+    await user.type(screen.getByLabelText('試験終了時アビ点数 Vocal'), '100')
+    await user.type(screen.getByLabelText('試験終了時アビ点数 Dance'), '100')
+    await user.type(screen.getByLabelText('試験終了時アビ点数 Visual'), '100')
+    await user.type(screen.getByLabelText('中間試験スコア'), '30000')
+    await user.type(screen.getByLabelText('最終試験スコア'), '250000')
+    await user.selectOptions(screen.getByLabelText('最終試験順位'), '1')
+
+    expect(screen.getByLabelText('現在の評価値')).toHaveTextContent('20,576')
+    expect(screen.getByLabelText('現在ランク')).toHaveTextContent('SSS')
+    expect(screen.getByLabelText('SSSに必要な最終試験スコア')).toHaveTextContent('211,600 pt')
+    expect(screen.getByLabelText('SSS+に必要な最終試験スコア')).toHaveTextContent('467,400 pt')
+    expect(screen.getByLabelText('S4に必要な最終試験スコア')).toHaveTextContent('不可能')
   })
 
   it('renders upgrade and customization markers on candidate images', async () => {

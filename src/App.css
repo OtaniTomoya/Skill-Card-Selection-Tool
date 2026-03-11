@@ -15,6 +15,7 @@
 .control-panel,
 .catalog-panel,
 .detail-panel,
+.legend-calculator,
 .result-panel {
   backdrop-filter: blur(12px);
   background:
@@ -84,6 +85,7 @@
 
 .hero-card h1,
 .catalog-panel h2,
+.legend-calculator h2,
 .result-panel h2,
 .detail-panel h2 {
   font-family: 'Hiragino Mincho ProN', 'Yu Mincho', serif;
@@ -403,11 +405,17 @@
 .result-workspace {
   display: grid;
   gap: 18px;
+  grid-template-columns: minmax(0, 1fr);
+  margin-bottom: 18px;
+}
+
+.result-workspace--with-detail {
   grid-template-columns: minmax(0, 1.6fr) minmax(320px, 0.9fr);
 }
 
 .catalog-panel,
 .detail-panel,
+.legend-calculator,
 .result-panel {
   padding: 20px;
 }
@@ -791,6 +799,157 @@
   margin: 0;
 }
 
+.legend-calculator {
+  display: grid;
+  gap: 20px;
+}
+
+.legend-calculator__header {
+  display: grid;
+  gap: 6px;
+}
+
+.legend-calculator__header p,
+.legend-calculator__group-header p,
+.legend-calculator__summary-label,
+.legend-calculator__target-row span:last-child {
+  color: #705331;
+  margin: 0;
+}
+
+.legend-calculator__layout {
+  display: grid;
+  gap: 18px;
+  grid-template-columns: minmax(0, 1.4fr) minmax(300px, 0.9fr);
+}
+
+.legend-calculator__inputs,
+.legend-calculator__results {
+  display: grid;
+  gap: 14px;
+}
+
+.legend-calculator__group,
+.legend-calculator__summary-card,
+.legend-calculator__target-card {
+  background: rgba(255, 255, 255, 0.58);
+  border: 1px solid rgba(93, 67, 35, 0.12);
+  border-radius: 22px;
+  display: grid;
+  gap: 14px;
+  padding: 16px;
+}
+
+.legend-calculator__group-header {
+  align-items: baseline;
+  display: flex;
+  gap: 12px;
+  justify-content: space-between;
+}
+
+.legend-calculator__group-header h3 {
+  margin: 0;
+}
+
+.legend-calculator__stat-grid {
+  display: grid;
+  gap: 12px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.legend-calculator__score-grid {
+  display: grid;
+  gap: 12px;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.legend-calculator__field {
+  display: grid;
+  gap: 8px;
+}
+
+.legend-calculator__field--full {
+  grid-column: 1 / -1;
+}
+
+.legend-calculator__field span {
+  color: #705331;
+  font-size: 0.92rem;
+}
+
+.legend-calculator__field input,
+.legend-calculator__field select {
+  background: rgba(255, 255, 255, 0.88);
+  border: 1px solid rgba(93, 67, 35, 0.16);
+  border-radius: 16px;
+  color: #14261c;
+  font: inherit;
+  min-height: 48px;
+  padding: 0 14px;
+}
+
+.legend-calculator__summary-card {
+  align-content: start;
+}
+
+.legend-calculator__summary-label {
+  font-size: 0.92rem;
+  font-weight: 700;
+}
+
+.legend-calculator__summary-value {
+  align-items: center;
+  display: flex;
+  gap: 14px;
+}
+
+.legend-calculator__summary-value span:last-child {
+  font-family: 'Hiragino Mincho ProN', 'Yu Mincho', serif;
+  font-size: clamp(1.9rem, 5vw, 2.8rem);
+  line-height: 1;
+}
+
+.legend-calculator__rank-badge {
+  align-items: center;
+  background: #4364f7;
+  border-radius: 999px;
+  color: #fffefb;
+  display: inline-flex;
+  font-size: 1rem;
+  font-weight: 700;
+  justify-content: center;
+  min-height: 42px;
+  min-width: 78px;
+  padding: 0 16px;
+}
+
+.legend-calculator__rank-badge.is-high {
+  background: #ffbc00;
+  color: #513500;
+}
+
+.legend-calculator__targets {
+  display: grid;
+  gap: 10px;
+}
+
+.legend-calculator__target-row {
+  align-items: center;
+  background: rgba(255, 254, 251, 0.88);
+  border: 1px solid rgba(93, 67, 35, 0.12);
+  border-radius: 16px;
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+  padding: 12px 14px;
+}
+
+@media (max-width: 1120px) {
+  .legend-calculator__layout {
+    grid-template-columns: 1fr;
+  }
+}
+
 @media (max-width: 1120px) {
   .control-panel,
   .workspace,
@@ -813,6 +972,7 @@
   .control-panel,
   .catalog-panel,
   .detail-panel,
+  .legend-calculator,
   .result-panel {
     border-radius: 22px;
     padding: 16px;
@@ -832,6 +992,18 @@
 
   .detail-panel__toggle-group {
     grid-template-columns: 1fr;
+  }
+
+  .legend-calculator__stat-grid,
+  .legend-calculator__score-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .legend-calculator__group-header,
+  .legend-calculator__target-row,
+  .legend-calculator__summary-value {
+    align-items: start;
+    flex-direction: column;
   }
 
   .filter-toolbar {

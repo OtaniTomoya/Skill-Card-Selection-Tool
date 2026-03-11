@@ -5,6 +5,7 @@ import {
 
 import './App.css'
 import { CardDetailPanel } from './components/CardDetailPanel'
+import { InitialLegendCalculator } from './components/InitialLegendCalculator'
 import { CardTile } from './components/CardTile'
 import { MemoryCandidateTile } from './components/MemoryCandidateTile'
 import { SkillSwitchPanel } from './components/SkillSwitchPanel'
@@ -497,7 +498,9 @@ export function AppShell({
         />
       </div>
 
-      <div className="result-workspace">
+      <div
+        className={`result-workspace${activeCandidateCard ? ' result-workspace--with-detail' : ''}`}
+      >
         <section className="result-panel">
           <div className="panel-header">
             <h2>取得候補一覧</h2>
@@ -559,18 +562,19 @@ export function AppShell({
           )}
         </section>
 
-        <CardDetailPanel
-          card={activeCandidateCard}
-          customizationSpec={
-            activeCandidateCard ? customizationSpecIndex.get(activeCandidateCard.id) : undefined
-          }
-          emptyMessage="取得候補をクリックすると、右側に詳細を表示します。"
-          memorySelection={activeCandidateMemorySelection}
-          onSetCustomization={setMemoryCustomization}
-          onToggleSelection={toggleCard}
-          onUpdateMemoryState={updateMemoryState}
-        />
+        {activeCandidateCard ? (
+          <CardDetailPanel
+            card={activeCandidateCard}
+            customizationSpec={customizationSpecIndex.get(activeCandidateCard.id)}
+            memorySelection={activeCandidateMemorySelection}
+            onSetCustomization={setMemoryCustomization}
+            onToggleSelection={toggleCard}
+            onUpdateMemoryState={updateMemoryState}
+          />
+        ) : null}
       </div>
+
+      <InitialLegendCalculator />
     </main>
   )
 }
