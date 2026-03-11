@@ -12,6 +12,7 @@
 }
 
 .hero-card,
+.seo-card,
 .control-panel,
 .catalog-panel,
 .detail-panel,
@@ -61,6 +62,13 @@
   flex-direction: column;
   gap: 10px;
   justify-self: end;
+}
+
+.hero-card__stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: flex-end;
 }
 
 .hero-card__meta span,
@@ -147,6 +155,11 @@
 
 .event-summary__label {
   color: #705331;
+  font-size: 0.92rem;
+}
+
+.event-summary__link {
+  color: #0e6f61;
   font-size: 0.92rem;
 }
 
@@ -402,6 +415,97 @@
   margin-bottom: 18px;
 }
 
+.seo-card {
+  display: grid;
+  gap: 18px;
+  margin-bottom: 18px;
+  padding: 24px;
+}
+
+.seo-card--overview {
+  background:
+    linear-gradient(180deg, rgba(255, 251, 240, 0.96), rgba(248, 241, 228, 0.92)),
+    #fff8eb;
+}
+
+.seo-card__header {
+  align-items: start;
+  display: grid;
+  gap: 10px;
+  grid-template-columns: minmax(0, 1.1fr) minmax(280px, 0.9fr);
+}
+
+.seo-card__header h2 {
+  font-family: 'Hiragino Mincho ProN', 'Yu Mincho', serif;
+  margin: 0;
+}
+
+.seo-card__lead {
+  color: #4b6558;
+  margin: 0;
+}
+
+.seo-grid {
+  display: grid;
+  gap: 14px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.seo-panel {
+  background: rgba(255, 255, 255, 0.62);
+  border: 1px solid rgba(93, 67, 35, 0.12);
+  border-radius: 22px;
+  display: grid;
+  gap: 12px;
+  padding: 18px;
+}
+
+.seo-panel h3,
+.seo-panel p,
+.seo-panel dl,
+.seo-panel ul {
+  margin: 0;
+}
+
+.seo-panel h3 {
+  font-size: 1rem;
+}
+
+.seo-panel__copy {
+  color: #4b6558;
+}
+
+.seo-list,
+.seo-links {
+  display: grid;
+  gap: 8px;
+  padding-left: 1.1rem;
+}
+
+.seo-facts,
+.seo-faq {
+  display: grid;
+  gap: 10px;
+}
+
+.seo-facts div,
+.seo-faq div {
+  display: grid;
+  gap: 4px;
+}
+
+.seo-facts dt,
+.seo-faq dt {
+  color: #705331;
+  font-size: 0.92rem;
+  font-weight: 700;
+}
+
+.seo-facts dd,
+.seo-faq dd {
+  margin: 0;
+}
+
 .result-workspace {
   display: grid;
   gap: 18px;
@@ -451,6 +555,12 @@
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
+}
+
+.detail-panel__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
 }
 
 .detail-panel__effect {
@@ -936,6 +1046,22 @@
   margin: 0 0 6px;
 }
 
+.legend-calculator__support-meta {
+  display: grid;
+  gap: 8px;
+}
+
+.legend-calculator__support-meta select {
+  background: rgba(255, 255, 255, 0.88);
+  border: 1px solid rgba(93, 67, 35, 0.16);
+  border-radius: 12px;
+  color: #14261c;
+  font: inherit;
+  min-height: 40px;
+  padding: 0 12px;
+  width: 100%;
+}
+
 .legend-calculator__summary-card {
   align-content: start;
 }
@@ -999,6 +1125,8 @@
 }
 
 @media (max-width: 1120px) {
+  .seo-card__header,
+  .seo-grid,
   .control-panel,
   .workspace,
   .result-workspace,
@@ -1017,6 +1145,7 @@
   }
 
   .hero-card,
+  .seo-card,
   .control-panel,
   .catalog-panel,
   .detail-panel,
@@ -1036,6 +1165,11 @@
 
   .detail-panel__heading {
     flex-direction: column;
+  }
+
+  .detail-panel__links,
+  .hero-card__stats {
+    justify-content: flex-start;
   }
 
   .detail-panel__toggle-group {

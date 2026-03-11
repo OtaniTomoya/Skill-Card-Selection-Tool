@@ -8,6 +8,8 @@ import {
 import {
   calculateInitialLegendSupportTotals,
   INITIAL_LEGEND_SUPPORT_CARDS,
+  type InitialLegendSupportLimitBreak,
+  type InitialLegendSupportSelection,
 } from '../lib/initial-legend-supports'
 
 const STAT_FIELDS = [
@@ -22,6 +24,17 @@ const INITIAL_FORM_VALUES: Record<'midScore' | 'preDa' | 'preVi' | 'preVo', stri
   preVi: '',
   preVo: '',
 }
+
+const LIMIT_BREAK_OPTIONS: Array<{
+  label: string
+  value: InitialLegendSupportLimitBreak
+}> = [
+  { label: '無凸', value: 0 },
+  { label: '1凸', value: 1 },
+  { label: '2凸', value: 2 },
+  { label: '3凸', value: 3 },
+  { label: '完凸', value: 4 },
+]
 
 function toNumber(value: string): number {
   if (value.trim() === '') {
@@ -52,9 +65,10 @@ export function InitialLegendCalculator() {
   const [formValues, setFormValues] =
     useState<Record<'midScore' | 'preDa' | 'preVi' | 'preVo', string>>(INITIAL_FORM_VALUES)
   const [isAbilityBonusEnabled, setIsAbilityBonusEnabled] = useState(false)
-  const [selectedSupportIds, setSelectedSupportIds] = useState<string[]>([])
+  const [selectedSupportSelections, setSelectedSupportSelections] =
+    useState<InitialLegendSupportSelection>({})
   const supportTotals = isAbilityBonusEnabled
-    ? calculateInitialLegendSupportTotals(selectedSupportIds)
+    ? calculateInitialLegendSupportTotals(selectedSupportSelections)
     : {
         abiDa: 0,
         abiVi: 0,
@@ -84,12 +98,29 @@ export function InitialLegendCalculator() {
     }))
   }
 
-  function handleSupportToggle(supportId: string) {
-    setSelectedSupportIds((current) =>
-      current.includes(supportId)
-        ? current.filter((id) => id !== supportId)
-        : [...current, supportId],
-    )
+  function handleSupportToggle(supportId: string, isChecked: boolean) {
+    setSelectedSupportSelections((current) => {
+      if (!isChecked) {
+        const nextSelections = { ...current }
+        delete nextSelections[supportId]
+        return nextSelections
+      }
+
+      return {
+        ...current,
+        [supportId]: 4,
+      }
+    })
+  }
+
+  function handleSupportLimitBreakChange(
+    supportId: string,
+    limitBreak: InitialLegendSupportLimitBreak,
+  ) {
+    setSelectedSupportSelections((current) => ({
+      ...current,
+      [supportId]: limitBreak,
+    }))
   }
 
   return (
@@ -137,7 +168,7 @@ export function InitialLegendCalculator() {
                     const nextChecked = event.target.checked
                     setIsAbilityBonusEnabled(nextChecked)
                     if (!nextChecked) {
-                      setSelectedSupportIds([])
+                      setSelectedSupportSelections({})
                     }
                   }}
                   type="checkbox"
@@ -146,7 +177,7 @@ export function InitialLegendCalculator() {
               </label>
             </div>
             <p className="legend-calculator__hint">
-              OFF のときは試験順位 1 位の固定上昇だけで計算します。ON のときは完凸時のサポカ分を自動加算します。
+              OFF のときは試験順位 1 位の固定上昇だけで計算します。ON のときは選択した凸数のサポカ分を自動加算します。
             </p>
             {isAbilityBonusEnabled ? (
               <>
@@ -157,15 +188,38 @@ export function InitialLegendCalculator() {
                   {INITIAL_LEGEND_SUPPORT_CARDS.map((supportCard) => (
                     <label className="legend-calculator__support-option" key={supportCard.id}>
                       <input
-                        checked={selectedSupportIds.includes(supportCard.id)}
-                        onChange={() => handleSupportToggle(supportCard.id)}
+                        checked={selectedSupportSelections[supportCard.id] !== undefined}
+                        onChange={(event) =>
+                          handleSupportToggle(supportCard.id, event.target.checked)
+                        }
                         type="checkbox"
                       />
                       <div>
                         <p>{supportCard.name}</p>
-                        <span>
-                          {supportCard.rarity} / {supportCard.stat.toUpperCase()} +{supportCard.bonus}
-                        </span>
+                        <div className="legend-calculator__support-meta">
+                          <span>
+                            {supportCard.rarity} / {supportCard.stat.toUpperCase()} / 完凸 +
+                            {supportCard.bonusByLimitBreak[4]}
+                          </span>
+                          {selectedSupportSelections[supportCard.id] !== undefined ? (
+                            <select
+                              aria-label={`${supportCard.name} の凸数`}
+                              onChange={(event) =>
+                                handleSupportLimitBreakChange(
+                                  supportCard.id,
+                                  Number(event.target.value) as InitialLegendSupportLimitBreak,
+                                )
+                              }
+                              value={selectedSupportSelections[supportCard.id]}
+                            >
+                              {LIMIT_BREAK_OPTIONS.map((option) => (
+                                <option key={option.value} value={option.value}>
+                                  {option.label} (+{supportCard.bonusByLimitBreak[option.value]})
+                                </option>
+                              ))}
+                            </select>
+                          ) : null}
+                        </div>
                       </div>
                     </label>
                   ))}
