@@ -1,0 +1,56 @@
+:root {
+  background:
+    radial-gradient(circle at top, rgba(233, 126, 62, 0.2), transparent 28%),
+    linear-gradient(180deg, #f7f0e0 0%, #efe5d1 100%);
+  color: #14261c;
+  font-family:
+    'Hiragino Sans',
+    'Yu Gothic',
+    'BIZ UDPGothic',
+    sans-serif;
+  font-synthesis: none;
+  font-weight: 400;
+  line-height: 1.5;
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  min-width: 320px;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+}
+
+button,
+input,
+select {
+  transition:
+    background-color 180ms ease,
+    border-color 180ms ease,
+    color 180ms ease,
+    transform 180ms ease;
+}
+
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+a:focus-visible {
+  outline: 3px solid rgba(34, 133, 108, 0.45);
+  outline-offset: 3px;
+}
+
+a {
+  color: #0e6f61;
+}
+
+#root {
+  min-height: 100vh;
+}

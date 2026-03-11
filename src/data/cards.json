@@ -1,0 +1,5767 @@
+[
+  {
+    "effectText": "温存に変更\n以降、強気効果のスキルカード使用後、強気効果のスキルカードのパラメータ増加値+2\n強化後\n温存に変更\n以降、強気効果のスキルカード使用後、強気効果のスキルカードのパラメータ増加値+3",
+    "id": "g8-667277",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-667277.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "受け取ってくれる？",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/667277",
+    "tags": [
+      "強気",
+      "温存"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "強気2段階目に変更\nパラメータ+7\n全力値+3\n消費体力減少2ターン\n強化後\n強気2段階目に変更\nパラメータ+16\n全力値+4\n消費体力減少4ターン",
+    "id": "g8-654074",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654074.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "心・技・体",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654074",
+    "tags": [
+      "強気",
+      "全力"
+    ],
+    "unlockLevel": 30,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "全力値+3\n次のターン、温存に変更\n全力の場合、パラメータ+20（2回）\n強化後\n全力値+4\n次のターン、温存2段階目に変更\n全力の場合、パラメータ+25（2回）",
+    "id": "g8-654073",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654073.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "輝け！",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654073",
+    "tags": [
+      "全力",
+      "温存"
+    ],
+    "unlockLevel": 41,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "強気に変更\nパラメータ+14（2回）\n次のターン、温存に変更\n強化後\n強気2段階目に変更\nパラメータ+19（2回）\n次のターン、温存2段階目に変更",
+    "id": "g8-654072",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654072.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "クライマックス",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654072",
+    "tags": [
+      "強気",
+      "温存"
+    ],
+    "unlockLevel": 43,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "強気に変更\n次に使用したスキルカードの消費体力を0にする（2回）\nスキルカード使用数追加+1\nスキルカードを3枚引く\n強化後\n強気に変更\n次に使用したスキルカードの消費体力を0にする（2回）\nスキルカード使用数追加+2\nスキルカードを3枚引く",
+    "id": "g8-654071",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654071.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "全身全霊",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654071",
+    "tags": [
+      "強気"
+    ],
+    "unlockLevel": 50,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "全力値消費3\nスキルカード使用数追加+1\n手札のパラメータ上昇回数増加+1\n強化後\n全力値消費3\n元気+4\n温存に変更\nスキルカード使用数追加+1\n手札のパラメータ上昇回数増加+1",
+    "id": "g8-654070",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654070.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "アイドルになります",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654070",
+    "tags": [
+      "全力",
+      "温存",
+      "元気"
+    ],
+    "unlockLevel": 25,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "以降、ターン開始時、いずれかの指針の場合、全てのスキルカードのパラメータ値増加+4\n強化後\n全てのスキルカードのパラメータ値増加+6\n以降、ターン開始時、いずれかの指針の場合、全てのスキルカードのパラメータ値増加+4",
+    "id": "g8-654069",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654069.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "頂点へ",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654069",
+    "tags": [
+      "開始時",
+      "指針"
+    ],
+    "unlockLevel": 45,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "体力消費4\n元気+8\n全力値+5\n山札か捨札にあるスキルカードを選択し、保留に移動\n強化後\n体力消費3\n元気+8\n全力値+7\n山札か捨札にあるスキルカードを選択し、保留に移動",
+    "id": "g8-654068",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654068.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "覚悟",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654068",
+    "tags": [
+      "全力",
+      "元気",
+      "保留"
+    ],
+    "unlockLevel": 54,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "全力の場合使用可\nパラメータ+10（3回）\n次のターン、温存2段階目に変更\n強化後\n全力の場合使用可\nパラメータ+16（3回）\n次のターン、温存2段階目に変更",
+    "id": "g8-659082",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-659082.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "踏切の先に",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/659082",
+    "tags": [
+      "全力",
+      "温存"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "山札か捨て札にあるスキルカードを選択し、保留に移動\n全力値+1\nスキルカード使用数追加+1\n強化後\n山札か捨て札にあるスキルカードを選択し、保留に移動\n全力値+2\nスキルカード使用数追加+1\n保留にあるスキルカードのパラメータ値増加+5",
+    "id": "g8-663107",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-663107.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "新たなステージ",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/663107",
+    "tags": [
+      "全力",
+      "保留"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "いずれかの指針の場合、使用可\n強気に変更\nパラメータ+7\n［成長］指針を変更するたび、このスキルカードのパラメータ値増加+15（レッスン中4回）\n強化後\nいずれかの指針の場合、使用可\n強気に変更\nパラメータ+10\n［成長］指針を変更するたび、自身のパラメータ値増加+20（4回まで）",
+    "id": "g8-654075",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654075.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "総合芸術",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654075",
+    "tags": [
+      "強気",
+      "指針"
+    ],
+    "unlockLevel": 12,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "以降、スキルカードが除外に移動した時、好調2ターン\n強化後\n以降、スキルカードが除外に移動した時、好調2ターン",
+    "id": "g8-609737",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609737.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "希望が届くまで",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609737",
+    "tags": [
+      "好調"
+    ],
+    "unlockSource": "unknown"
+  },
+  {
+    "effectText": "全力値+3\nパラメータ+10（このレッスン中に増加した全力値の100%分、パラメータ上昇量増加）\n［成長］全力になった時、このスキルカードのパラメータ値増加+20（レッスン中1回）\n強化後\n全力値+4\nパラメータ+10（累積全力値の150%分、パラメータ上昇量増加）\n［成長］全力になった時、自身のパラメータ値増加+30（1回まで）",
+    "id": "g8-654076",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654076.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "翔び立て！",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654076",
+    "tags": [
+      "全力"
+    ],
+    "unlockLevel": 11,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "温存に変更\n全力値+3\n次のターン、手札を全てレッスン中強化\n強化後\n温存に2段階目に変更\n全力値+4\n次のターン、手札を全てレッスン中強化",
+    "id": "g8-654030",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654030.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "雨宿りのバス停",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654030",
+    "tags": [
+      "全力",
+      "温存"
+    ],
+    "unlockSource": "support-event"
+  },
+  {
+    "effectText": "元気+10\n全力値+3\n手札を選択し、保留に移動\n強化後\n元気+15\n全力値+4\n手札を選択し、保留に移動",
+    "id": "g8-654081",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654081.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "潜在能力",
+    "plan": "anomaly",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654081",
+    "tags": [
+      "全力",
+      "元気",
+      "保留"
+    ],
+    "unlockSource": "random-default"
+  },
+  {
+    "effectText": "全力値+2\n山札か捨札にあるスキルカードを選択し、保留に移動\nスキルカード使用数追加+1\n指針固定+1ターン\n強化後\n全力値+3\n山札か捨札にあるスキルカードを選択し、保留に移動\nスキルカード使用数追加+1\n指針固定+1ターン",
+    "id": "g8-654077",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654077.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "切磋琢磨",
+    "plan": "anomaly",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654077",
+    "tags": [
+      "全力",
+      "保留",
+      "指針"
+    ],
+    "unlockLevel": 32,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "レッスン開始時手札に入る\n温存に変更\n元気+5\n全力値+2\n強化後\nレッスン開始時手札に入る\n温存に変更\n元気+8\n全力値+3",
+    "id": "g8-654079",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654079.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "プライド",
+    "plan": "anomaly",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654079",
+    "tags": [
+      "全力",
+      "温存",
+      "開始時",
+      "元気"
+    ],
+    "unlockLevel": 20,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "温存に変更\n元気+8\n強化後\n温存に変更\n元気+13",
+    "id": "g8-654080",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654080.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "カウントダウン",
+    "plan": "anomaly",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654080",
+    "tags": [
+      "温存",
+      "元気"
+    ],
+    "unlockSource": "random-default"
+  },
+  {
+    "effectText": "温存に変更\n元気+5\n全力値+2\n強化後\n温存2段階目に変更\n元気+5\n全力値+3",
+    "id": "g8-654078",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654078.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "忍耐力",
+    "plan": "anomaly",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654078",
+    "tags": [
+      "全力",
+      "温存",
+      "元気"
+    ],
+    "unlockLevel": 28,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "パラメータ+6（2回）\n［成長］指針を変更するたび、このスキルカードのパラメータ値増加+2\n強化後\nパラメータ+6（2回）\n［成長］指針を変更するたび、自身のパラメータ値増加+4",
+    "id": "g8-654083",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654083.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "理想のテンポ",
+    "plan": "anomaly",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654083",
+    "tags": [
+      "指針"
+    ],
+    "unlockLevel": 52,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "強気に変更\nパラメータ+12\n強化後\n強気に変更\nパラメータ+22",
+    "id": "g8-654089",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654089.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "せーのっ！",
+    "plan": "anomaly",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654089",
+    "tags": [
+      "強気"
+    ],
+    "unlockSource": "random-default"
+  },
+  {
+    "effectText": "パラメータ+10\n全力値+3\n強化後\nパラメータ+12\n全力値+4",
+    "id": "g8-654088",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654088.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "アッチェレランド",
+    "plan": "anomaly",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654088",
+    "tags": [
+      "全力"
+    ],
+    "unlockSource": "random-default"
+  },
+  {
+    "effectText": "いずれかの指針の場合、使用可\nパラメータ+8（2回）\n強化後\nいずれかの指針の場合、使用可\nパラメータ+10（2回）",
+    "id": "g8-654087",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654087.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "はじけるパッション",
+    "plan": "anomaly",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654087",
+    "tags": [
+      "指針"
+    ],
+    "unlockLevel": 6,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "全力の場合、使用可\nパラメータ+37\n強化後\n全力の場合、使用可\nパラメータ+47",
+    "id": "g8-654086",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654086.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "汗と成長",
+    "plan": "anomaly",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654086",
+    "tags": [
+      "全力"
+    ],
+    "unlockLevel": 7,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "全力値+3\nパラメータ+9\n次のターン、温存に変更\n強化後\n全力値+4\nパラメータ+10\n次のターン、温存に変更",
+    "id": "g8-654082",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654082.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "トレーニングの成果",
+    "plan": "anomaly",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654082",
+    "tags": [
+      "全力",
+      "温存"
+    ],
+    "unlockLevel": 58,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "強気に変更\nパラメータ+10\n全力値+2\n強化後\n強気に変更\nパラメータ+10\n全力値+3",
+    "id": "g8-654085",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654085.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "オープニングアクト",
+    "plan": "anomaly",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654085",
+    "tags": [
+      "強気",
+      "全力"
+    ],
+    "unlockLevel": 29,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "全力値消費2\n強気に変更\nパラメータ+6\n消費体力減少2ターン\n次のターン、スキルカードを引く\n強化後\n全力値消費1\n強気に変更\nパラメータ+8\n消費体力減少2ターン\n次のターン、スキルカードを引く",
+    "id": "g8-654084",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654084.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "始まりの笑顔",
+    "plan": "anomaly",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654084",
+    "tags": [
+      "強気",
+      "全力"
+    ],
+    "unlockLevel": 34,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "元気+2\n全力値+2\n強化後\n元気+3\n全力値+3",
+    "id": "g8-654100",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654100.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "メントレの基本",
+    "plan": "anomaly",
+    "rarity": "N",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654100",
+    "tags": [
+      "全力",
+      "元気"
+    ],
+    "unlockSource": "random-default"
+  },
+  {
+    "effectText": "温存に変更\n元気+2\n強化後\n温存に変更\n元気+6",
+    "id": "g8-654099",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654099.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "イメージの基本",
+    "plan": "anomaly",
+    "rarity": "N",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654099",
+    "tags": [
+      "温存",
+      "元気"
+    ],
+    "unlockSource": "random-default"
+  },
+  {
+    "effectText": "全力値+1\n温存の場合、自身を保留に移動\n全力の場合、パラメータ+25\n強化後\n全力値+1\n温存の場合、自身を保留に移動\n全力の場合、パラメータ+25",
+    "id": "g8-654101",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654101.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "スパート",
+    "plan": "anomaly",
+    "rarity": "N",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654101",
+    "tags": [
+      "全力",
+      "温存",
+      "保留"
+    ],
+    "unlockSource": "random-default"
+  },
+  {
+    "effectText": "強気に変更\nパラメータ+15\n強化後\n強気に変更\nパラメータ+25",
+    "id": "g8-654102",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654102.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "はげしく",
+    "plan": "anomaly",
+    "rarity": "N",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654102",
+    "tags": [
+      "強気"
+    ],
+    "unlockSource": "random-default"
+  },
+  {
+    "effectText": "パラメータ+15\n全力値+2\n強化後\nパラメータ+15\n全力値+3",
+    "id": "g8-654098",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654098.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "ジャストアピール",
+    "plan": "anomaly",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654098",
+    "tags": [
+      "全力"
+    ],
+    "unlockSource": "random-default"
+  },
+  {
+    "effectText": "強気に変更\nパラメータ+9\n強化後\n強気に変更\nパラメータ+18",
+    "id": "g8-654097",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654097.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "スターライト",
+    "plan": "anomaly",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654097",
+    "tags": [
+      "強気"
+    ],
+    "unlockSource": "random-default"
+  },
+  {
+    "effectText": "強気に変更\n強化後\n強気に変更\n元気+4",
+    "id": "g8-654103",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654103.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "挨拶の基本",
+    "plan": "anomaly",
+    "rarity": "N",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654103",
+    "tags": [
+      "強気",
+      "元気"
+    ],
+    "unlockSource": "random-default"
+  },
+  {
+    "effectText": "強気に変更\nパラメータ+2(2回)\n強化後\n強気に変更\nパラメータ+4(2回)",
+    "id": "g8-654033",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654033.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "学園一のアイドル",
+    "plan": "anomaly",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654033",
+    "tags": [
+      "強気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "パラメータ+15\n強化後\nパラメータ+23",
+    "id": "g8-654096",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654096.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "一歩",
+    "plan": "anomaly",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654096",
+    "tags": [],
+    "unlockLevel": 2,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "パラメータ+8\n強気の場合、全力値+3\n強化後\nパラメータ+10\n強気の場合、全力値+4",
+    "id": "g8-654095",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654095.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "ラッキー",
+    "plan": "anomaly",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654095",
+    "tags": [
+      "強気",
+      "全力"
+    ],
+    "unlockLevel": 9,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "全力値+2\n温存の場合、自身を保留に移動\n全力の場合、パラメータ+20\n強化後\n全力値+2\n温存の場合、自身を保留に移動\n全力の場合、パラメータ+35",
+    "id": "g8-654094",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654094.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "積み重ね",
+    "plan": "anomaly",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654094",
+    "tags": [
+      "全力",
+      "温存",
+      "保留"
+    ],
+    "unlockLevel": 13,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "強気に変更\nパラメータ+6（2回）\n強化後\n強気に変更\nパラメータ+7（2回）",
+    "id": "g8-654093",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654093.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "精一杯",
+    "plan": "anomaly",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654093",
+    "tags": [
+      "強気"
+    ],
+    "unlockLevel": 14,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "温存に変更\n元気+7\n強化後\n温存に変更\n元気+10",
+    "id": "g8-654092",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654092.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "ハッピー",
+    "plan": "anomaly",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654092",
+    "tags": [
+      "温存",
+      "元気"
+    ],
+    "unlockSource": "random-default"
+  },
+  {
+    "effectText": "元気+5\n全力値+2\n全力値が1以上の場合、温存に変更\n強化後\n元気+6\n全力値+3\n全力値が1以上の場合、温存に変更",
+    "id": "g8-654091",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654091.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "嬉しい誤算",
+    "plan": "anomaly",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654091",
+    "tags": [
+      "全力",
+      "温存",
+      "元気"
+    ],
+    "unlockLevel": 4,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "温存に変更\n元気+2\n強気の場合、全力値+3\n強化後\n温存に変更\n元気+4\n強気の場合、全力値+4",
+    "id": "g8-654090",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654090.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "涙の思い出",
+    "plan": "anomaly",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654090",
+    "tags": [
+      "強気",
+      "全力",
+      "温存",
+      "元気"
+    ],
+    "unlockLevel": 19,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "全力値+4\n消費体力減少2ターン\n強化後\n全力値+5\n消費体力減少3ターン",
+    "id": "g8-654034",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654034.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "王者の御出まし",
+    "plan": "anomaly",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654034",
+    "tags": [
+      "全力"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "温存2段階目に変更\n以降、直接効果で全力値が増加後、温存の場合、全力値+1\n強化後\n元気-1\n温存2段階目に変更\n以降、直接効果で全力値が増加後、温存の場合、全力値+1",
+    "id": "g8-708549",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-708549.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "待ち望んだ瞬間",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/708549",
+    "tags": [
+      "全力",
+      "温存",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "体力消費6\nレッスン開始時手札に入る\n温存に変更\nメンタルスキルカードの元気増加+8\n強化後\n体力消費6\nレッスン開始時手札に入る\n温存に変更\nメンタルスキルカードの元気増加+11",
+    "id": "g8-692622",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-692622.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "次こそは、必ず",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/692622",
+    "tags": [
+      "温存",
+      "開始時",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "全力値が5以上の場合、使用可\n全力値+5\n次のターン、手札のパラメータ値増加+8\n強化後\n全力値が5以上の場合、使用可\n全力値+5\n次のターン、手札のパラメータ値増加+8",
+    "id": "g8-692623",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-692623.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "セッティング",
+    "plan": "anomaly",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/692623",
+    "tags": [
+      "全力"
+    ],
+    "unlockSource": "unknown"
+  },
+  {
+    "effectText": "強気の場合、使用可\n温存に変更\n強気効果のスキルカードのパラメータ値増加+37・コスト値増加+7\n強化後\n強気の場合、使用可\n温存に変更\n強気効果のスキルカードのパラメータ値増加+45・コスト値増加+7",
+    "id": "g8-692624",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-692624.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "一心不乱",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/692624",
+    "tags": [
+      "強気",
+      "温存"
+    ],
+    "unlockSource": "unknown"
+  },
+  {
+    "effectText": "全力値+3\n全力値増加量増加+50%（3ターン）\nスキルカード使用数追加+1\nスキルカードを2枚引く\n眠気を山札のランダムな位置に生成\n強化後\n元気+1\n全力値+3\n全力値増加量増加+50%（4ターン）\nスキルカード使用数追加+1\nスキルカードを2枚引く\n眠気を山札のランダムな位置に生成",
+    "id": "g8-753504",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-753504.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "リスキーチャンス",
+    "plan": "anomaly",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/753504",
+    "tags": [
+      "全力",
+      "元気"
+    ],
+    "unlockLevel": 54,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "温存に変更\n熱意増加+100%（3ターン）\nスキルカード使用数追加+1\nスキルカードを3枚引く\n眠気を山札のランダムな位置に生成\n強化後\n温存に変更\n熱意増加+150%（3ターン）\nスキルカード使用数追加+1\nスキルカードを3枚引く\n眠気を山札のランダムな位置に生成",
+    "id": "g8-753503",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-753503.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "フルスロットル",
+    "plan": "anomaly",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/753503",
+    "tags": [
+      "温存"
+    ],
+    "unlockLevel": 53,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "強気に変更\nパラメータ+4\n全力値+2\nスキルカード使用数追加+1\n眠気を山札のランダムな位置に生成\n次のターン、温存に変更\n強化後\n元気+1\n強気に変更\nパラメータ+4（2回）\n全力値+2\nスキルカード使用数追加+1\n眠気を山札のランダムな位置に生成\n次のターン、温存に変更",
+    "id": "g8-753496",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-753496.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "オーバードライブ",
+    "plan": "anomaly",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/753496",
+    "tags": [
+      "強気",
+      "全力",
+      "温存",
+      "元気"
+    ],
+    "unlockLevel": 58,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "全力値+2\n以降1回まで、ターン開始時、全力の場合、パラメータ+20\n除外以外にあるトラブルカードが2枚以上の場合、手札を選択し、保留に移動\n強化後\n元気+1\n全力値+3\n以降1回まで、ターン開始時、全力の場合、パラメータ+20\n除外以外にあるトラブルカードが2枚以の場合、手札を選択し、保留に移動",
+    "id": "g8-753495",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-753495.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "ノンストップ",
+    "plan": "anomaly",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/753495",
+    "tags": [
+      "全力",
+      "開始時",
+      "元気",
+      "保留"
+    ],
+    "unlockLevel": 52,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "強気に変更\nパラメータ+9\n除外以外にあるトラブルカードが2枚以上の場合、スキルカードを引く\n強化後\n元気+1\n強気に変更\nパラメータ+13\n除外以外にあるトラブルカードが2枚以上の場合、スキルカードを2枚引く",
+    "id": "g8-753494",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-753494.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "形勢逆転",
+    "plan": "anomaly",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/753494",
+    "tags": [
+      "強気",
+      "元気"
+    ],
+    "unlockLevel": 51,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "メンタルスキルカードの元気値増加+5・コスト値増加+1\nスキルカード使用数追加+1\nスキルカードを引く\n強化後\nメンタルスキルカードの元気値増加+6・コスト値増加+1\nスキルカード使用数追加+1\nスキルカードを引く",
+    "id": "g8-692626",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-692626.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "インフルエンサー",
+    "plan": "anomaly",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/692626",
+    "tags": [
+      "元気"
+    ],
+    "unlockSource": "unknown"
+  },
+  {
+    "effectText": "強気に変更\nパラメータ+3（2回）\n［成長］強気効果のスキルカード使用後、このスキルカードのパラメータ値増加+10・コスト値増加+1（レッスン中2回）\n強化後\n強気に変更\nパラメータ+6（2回）\n［成長］強気効果のスキルカード使用後、自身のパラメータ値増加+15・コスト値増加+1（2回まで）",
+    "id": "g8-654035",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654035.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "一番高い星",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654035",
+    "tags": [
+      "強気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "スターライトのパラメータ上昇回数+1\n山札か捨札にあるスターライト+1枚を手札に移動\nスキルカード使用回数+1\n強化後\n温存2段階目に変更\nスターライトのパラメータ上昇回数+1\n山札か捨札にあるスターライト+1枚を手札に移動\nスキルカード使用回数+1",
+    "id": "g8-662579",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-662579.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "手にした答え",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/662579",
+    "tags": [
+      "温存"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "全力になった回数が1回以上の場合、使用可\nパラメータ+20\n成長：全力になった時、このスキルカードのパラメータ上昇回数増加+1（レッスン中4回）\n強化後\n全力になった回数が1回以上の場合、使用可\nパラメータ+25\n成長：全力になった時、自身のパラメータ上昇回数増加+1（4回まで）",
+    "id": "g8-662581",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-662581.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "アイドルにしてくれた",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/662581",
+    "tags": [
+      "全力"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "全力値+4\n山札か捨札にあるスキルカードを選択し、保留に移動\n以降、ターン開始時、全力の場合、すべてのスキルカードのパラメータ増加値+2\n強化後\n全力値+5\n山札か捨札にあるスキルカードを選択し、保留に移動\n以降、ターン開始時、全力の場合、すべてのスキルカードのパラメータ増加値+2",
+    "id": "g8-667278",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-667278.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "がんばった、よ",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/667278",
+    "tags": [
+      "全力",
+      "開始時",
+      "保留"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "体力消費3\n元気+4\n温存に変更\n以降の2ターンの、ターン開始時、温存に変更\n重複不可レッスン中1回\n強化後\n体力消費2に変更\n元気+8\n温存に変更\n以降の2ターンの、ターン開始時、温存に変更\n重複不可レッスン中1回",
+    "id": "g8-667279",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-667279.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "バレンタイン大作戦！",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/667279",
+    "tags": [
+      "温存",
+      "開始時",
+      "元気"
+    ],
+    "unlockSource": "support-event"
+  },
+  {
+    "effectText": "温存の場合、使用可\n全力値+2\n体力回復2\n山札にあるスキルカードを選択し、保留に移動\n重複不可レッスン中1回\n強化後\n温存の場合、使用可\n全力値+3\n体力回復3\n山札にあるスキルカードを選択し、保留に移動\n重複不可レッスン中1回",
+    "id": "g8-667280",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-667280.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "愛情レインボー",
+    "plan": "anomaly",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/667280",
+    "tags": [
+      "全力",
+      "温存",
+      "体力回復",
+      "保留"
+    ],
+    "unlockSource": "support-event"
+  },
+  {
+    "effectText": "温存になった回数が2回以上の場合、使用可\n温存に変更\nスキルカード使用回数追加+1\nアクティブスキルカードのパラメータ値増加\nコスト値増加+1\n強化後\n温存になった回数が2回以上の場合、使用可\n温存に変更\nスキルカード使用回数追加+1\nアクティブスキルカードのパラメータ値増加\nコスト値増加+1",
+    "id": "g8-692631",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-692631.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "タフネス",
+    "plan": "anomaly",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/692631",
+    "tags": [
+      "温存"
+    ],
+    "unlockSource": "unknown"
+  },
+  {
+    "effectText": "全力値+2\n以降、全力効果のスキルカード使用時、全力値+1\n強化後\n全力値+2\n以降、全力効果のスキルカード使用時、全力値+1",
+    "id": "g8-692629",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-692629.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "モチベ",
+    "plan": "anomaly",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/692629",
+    "tags": [
+      "全力"
+    ],
+    "unlockSource": "unknown"
+  },
+  {
+    "effectText": "強気に変更\n以降、強気効果のスキルカード使用時、すべてのスキルカードのパラメータ値増加+2\n強化後\n強気に変更\n以降、強気効果のスキルカード使用時、すべてのスキルカードのパラメータ値増加+3",
+    "id": "g8-692628",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-692628.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "第一印象",
+    "plan": "anomaly",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/692628",
+    "tags": [
+      "強気"
+    ],
+    "unlockSource": "unknown"
+  },
+  {
+    "effectText": "アクティブスキルカードのパラメータ値増加+13・コスト値増加+1\n次のターン、スキルカードを引く\n強化後\nアクティブスキルカードのパラメータ値増加+16・コスト値増加+1\n次のターン、スキルカードを2枚引く",
+    "id": "g8-692627",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-692627.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "盛り上げ上手",
+    "plan": "anomaly",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/692627",
+    "tags": [],
+    "unlockSource": "unknown"
+  },
+  {
+    "effectText": "自身を保留に移動\n非全力状態の場合、スキルカード使用数追加+1\n全力の場合、パラメータ+3 (このレッスン中に増加した全力値の50%分、パラメータ上昇量増加・2回)\n成長：自身使用後、全力の場合、このスキルカードのパラメータ値増加+5・全力値コスト値増加+1\n強化後\n自身を保留に移動\n非全力状態の場合、スキルカード使用数追加+1\n全力の場合、パラメータ+10 (累積全力値の100%分、パラメータ上昇量増加・2回)\n成長：自身使用後、全力の場合、自身のパラメータ値増加+5・全力値コスト値増加+1(4回まで)",
+    "id": "g8-692625",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-692625.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "トレンドリーダー",
+    "plan": "anomaly",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/692625",
+    "tags": [
+      "全力",
+      "保留"
+    ],
+    "unlockSource": "unknown"
+  },
+  {
+    "effectText": "このレッスン中の累計全力値が5以上の場合、使用可、自身を保留に移動、次のターン、全力値+4、全力の場合、パラメータ+5（4回）、成長：自身使用後、全力の場合、自身のパラメータ値増加+4\n強化後\nこのレッスン中の累計全力値が5以上の場合、使用可、自身を保留に移動、次のターン、全力値+4、全力の場合、パラメータ+5（5回）、成長：自身使用後、全力の場合、自身のパラメータ値増加+6",
+    "id": "g8-768596",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-768596.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "羽ばたけ！",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/768596",
+    "tags": [
+      "全力",
+      "保留"
+    ],
+    "unlockLevel": 80,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "強気に変更、パラメーター+10、元気+5、次のターン、温存に変更、成長：直接効果で強気になった時、自身のパラメーター値増加+4(4回まで)元気+10(レッスン内1回)\n強化後\n元気-6、強気に変更、パラメーター+10、元気+10、次のターン、温存に変更、成長：直接効果で強気になった時、自身のパラメーター値増加+4(4回まで)元気+10(レッスン内1回)",
+    "id": "g8-727921",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-727921.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "泥臭くあれ！",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/727921",
+    "tags": [
+      "強気",
+      "温存",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "強気に変更、パラメータ+10、成長：直接効果で指針を3回変更するたびに、自身のパラメータ上昇回数増加+1・体力消費コスト値減少-1（2回まで）\n強化後\n強気に変更、パラメータ+12、成長：直接効果で指針を3回変更するたびに、自身のパラメータ上昇回数増加+1・体力消費コスト値減少-1（3回まで）",
+    "id": "g8-768599",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-768599.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "エンターテイナー",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/768599",
+    "tags": [
+      "強気",
+      "指針"
+    ],
+    "unlockLevel": 77,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "強気に変更、全力値+3、パラメータ+3（2回）、温存の場合、スキルカードを引く\n強化後\n強気に変更、全力値+3、パラメータ+3（2回）、温存の場合、スキルカードを2枚引く",
+    "id": "g8-768372",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-768372.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "せーのでぱくっ！",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/768372",
+    "tags": [
+      "強気",
+      "全力",
+      "温存"
+    ],
+    "unlockSource": "support-event"
+  },
+  {
+    "effectText": "強気に変更、パラメータ+2、元気+2、全力値+2、成長：直接効果で強気になった時自身のパラメータ値増加+2・元気値増加+1\n強化後\n強気に変更、パラメータ+2（2回）、元気+2、全力値+2、成長：直接効果で強気になった時自身のパラメータ値増加+2・元気値増加+1",
+    "id": "g8-768373",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-768373.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "踊り狂え！",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/768373",
+    "tags": [
+      "強気",
+      "全力",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "山札か捨札にあるスキルカードを2枚まで選択し保留に移動、保留にあるスキルカードのパラメータ上昇回数増加+1・コスト値増加+6、次のターン、全力値+5\n強化後\n山札か捨札にあるスキルカードを2枚まで選択し保留に移動、保留にあるスキルカードのパラメータ上昇回数増加+1・コスト値増加+2、次のターン、全力値+5",
+    "id": "g8-758614",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-758614.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "本領発揮",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/758614",
+    "tags": [
+      "全力",
+      "保留"
+    ],
+    "unlockLevel": 75,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "強気に変更、パラメータ+10、熱意増加+10%\n強化後\n強気に変更、パラメータ+18、熱意増加+10%",
+    "id": "g8-758616",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-758616.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "アンダンテ",
+    "plan": "anomaly",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/758616",
+    "tags": [
+      "強気"
+    ],
+    "unlockLevel": 73,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "強気に変更、全力値+2、アクティブスキルカードのパラメータ値追加+4\n強化後\n強気に変更、全力値+3、アクティブスキルカードのパラメータ値追加+6",
+    "id": "g8-758618",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-758618.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "ハッスル",
+    "plan": "anomaly",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/758618",
+    "tags": [
+      "強気",
+      "全力"
+    ],
+    "unlockLevel": 71,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "元気+7全力値+1以降3回まで、メンタルスキルカード使用時、非全力状態の場合、全力値+2",
+    "id": "g8-758546",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-758546.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "寒空リサイタル",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/758546",
+    "tags": [
+      "全力",
+      "元気"
+    ],
+    "unlockSource": "support-event"
+  },
+  {
+    "effectText": "温存に変更、全力値+2、全力効果のアクティブカードスキルカードのパラメータ値増加+40・コスト値増加+8\n強化後\n温存に変更、全力値+2、全力効果のアクティブカードスキルカードのパラメータ値増加+50・コスト値増加+8",
+    "id": "g8-756495",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-756495.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "置き去りな自分",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/756495",
+    "tags": [
+      "全力",
+      "温存"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "スキルカード使用枚数+1、やる気が8以下の場合、好印象1.1倍、やる気が9以上の場合、好印象の140%分パラメータ上昇\n強化後\nスキルカード使用枚数+1、やる気が8以下の場合、好印象1.1倍、やる気が9以上の場合、好印象の250%分パラメータ上昇",
+    "id": "g8-756498",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-756498.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "夢と現の境界線",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/756498",
+    "tags": [
+      "好印象",
+      "やる気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "温存に変更、元気+5、熱意追加+8、メンタルスキルカードのコスト値増加+1・体力消費コスト値増加+1\n強化後\n温存に変更、元気+8、熱意追加+10、メンタルスキルカードのコスト値増加+1・体力消費コスト値増加+1",
+    "id": "g8-706448",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-706448.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "日が差す方へ",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/706448",
+    "tags": [
+      "温存",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "温存に変更\n熱意追加+3\n全てのスキルカードのコスト値減少-1\n強化後\n温存に変更\n熱意追加+6\n全てのスキルカードのコスト値減少-1",
+    "id": "g8-712460",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-712460.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "巻き返し",
+    "plan": "anomaly",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/712460",
+    "tags": [
+      "温存"
+    ],
+    "unlockLevel": 66,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "温存に変更\nスキルカード使用数追加+1\n以降3回まで、全力を解除後、非全力状態の場合、温存に変更\n強化後\nコストが元気-3に変更\n温存に変更\nスキルカード使用数追加+1\n以降3回まで、全力を解除後、非全力状態の場合、温存に変更",
+    "id": "g8-712457",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-712457.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "達成感",
+    "plan": "anomaly",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/712457",
+    "tags": [
+      "全力",
+      "温存",
+      "元気"
+    ],
+    "unlockLevel": 68,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "全力値+1\n以降、ターン開始時、温存の場合、のんびりに変更\n強化後\n全力値+3\n以降、ターン開始時、温存の場合、のんびりに変更",
+    "id": "g8-713805",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-713805.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "のんびり屋さん",
+    "plan": "anomaly",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/713805",
+    "tags": [
+      "全力",
+      "温存",
+      "開始時"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "体力消費1\n全力値+2\n元気+6\n累積全力値の100％分パラメータ上昇\n強化後\n体力消費1\n全力値+2\n元気+9\n累積全力値の150％分パラメータ上昇",
+    "id": "g8-717583",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-717583.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "でこれーとまじっく",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/717583",
+    "tags": [
+      "全力",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "全力消費6スキルカード使用数追加+1、次のターン、全力値+2、以降3回まで、ターン終了時、全力値が9以下の場合、パラメーター+2(累積全力値の100%分、パラメーター上昇増加)\n強化後\n全力消費4スキルカード使用数追加+1、次のターン、全力値+3、以降3回まで、ターン終了時、全力値が9以下の場合、パラメーター+2(累積全力値の100%分、パラメーター上昇増加)",
+    "id": "g8-748168",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-748168.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "あふれ出る想い",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/748168",
+    "tags": [
+      "全力"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "",
+    "id": "g8-746308",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-746308.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "いたずらサンタさん",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/746308",
+    "tags": [],
+    "unlockSource": "support-event"
+  },
+  {
+    "effectText": "強気に変更、パラメーター+8、成長：直接効果で強気になった時、自身のパラメーター値増加+5\n強化後\n強気に変更、パラメーター+10、成長：直接効果で強気になった時、自身のパラメーター値増加+5",
+    "id": "g8-746309",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-746309.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "グーチョキパーデポン",
+    "plan": "anomaly",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/746309",
+    "tags": [
+      "強気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "パラメータ+5（2回）、温存の場合、使用可、強気に変更\n強化後\nパラメータ+8（2回）、温存の場合、使用可、強気に変更",
+    "id": "g8-746310",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-746310.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "プライドの塊",
+    "plan": "anomaly",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/746310",
+    "tags": [
+      "強気",
+      "温存"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "好印象+4\nやる気+3\n次のターン、手札をすべてレッスン中強化\n強化後\nコストを元気-6に変更\n好印象+5\nやる気+4\n次のターン、手札をすべてレッスン中強化",
+    "id": "g8-609963",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609963.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "ダメダメクッキング",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609963",
+    "tags": [
+      "好印象",
+      "やる気",
+      "元気"
+    ],
+    "unlockSource": "support-event"
+  },
+  {
+    "effectText": "体力消費4\n元気+2\n元気の100%分パラメータ上昇\nやる気+2\n強化後\n体力消費4\n元気+5\n元気の120%分パラメータ上昇\nやる気+3",
+    "id": "g8-609955",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609955.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "お嬢様の晴れ舞台",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609955",
+    "tags": [
+      "やる気",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "好印象+3\n以降、ターン終了時、好印象+1\n強化後\nコストを元気-2に変更\n好印象+4\n以降、ターン終了時、好印象+1",
+    "id": "g8-609954",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609954.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "もう怖くないから",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609954",
+    "tags": [
+      "好印象",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "元気+5\nやる気が3以上の場合、元気+4\n強化後\n元気+7\nやる気が3以上の場合、元気+7",
+    "id": "g8-609953",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609953.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "本気の趣味",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609953",
+    "tags": [
+      "やる気",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "元気+2\n好印象+7\n強化後\n元気+4\n好印象+9",
+    "id": "g8-609952",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609952.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "よそ見はダメ♪",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609952",
+    "tags": [
+      "好印象",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "好印象+1\n以降、ターン終了時好印象が3以上の場合、好印象+3\n強化後\n好印象+4\n以降、ターン終了時好印象が3以上の場合、好印象+3",
+    "id": "g8-609946",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609946.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "虹色ドリーマー",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609946",
+    "tags": [
+      "好印象"
+    ],
+    "unlockLevel": 45,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "好印象+8\nやる気+5\n強化後\nコストを元気-9に変更\n好印象+10\nやる気+6",
+    "id": "g8-609945",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609945.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "トキメキ",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609945",
+    "tags": [
+      "好印象",
+      "やる気",
+      "元気"
+    ],
+    "unlockLevel": 42,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "好印象消費2\n元気+9\n元気+9\n強化後\n好印象消費1\n元気+10\n元気+10",
+    "id": "g8-609944",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609944.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "手書きのメッセージ",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609944",
+    "tags": [
+      "好印象",
+      "元気"
+    ],
+    "unlockLevel": 39,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "好印象+3\nやる気+3\n消費体力減少3ターン\n強化後\n好印象+5\nやる気+3\n消費体力減少3ターン",
+    "id": "g8-609943",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609943.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "ノートの端の決意",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609943",
+    "tags": [
+      "好印象",
+      "やる気"
+    ],
+    "unlockLevel": 37,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "やる気消費3\n好印象+5\nスキルカード使用数追加+1\n強化後\nやる気消費3\n好印象+7\nスキルカード使用数追加+1\nスキルカードを引く",
+    "id": "g8-609942",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609942.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "星屑センセーション",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609942",
+    "tags": [
+      "好印象",
+      "やる気"
+    ],
+    "unlockLevel": 30,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "好印象消費2\nターン追加+1\nスキルカード使用数追加+1\n強化後\n好印象消費1\nターン追加+1\nスキルカード使用数追加+1\nスキルカードを引く",
+    "id": "g8-609941",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609941.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "私がスター",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609941",
+    "tags": [
+      "好印象"
+    ],
+    "unlockLevel": 25,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "体力消費2\n元気を0にして、減少前の元気の160%分パラメータ上昇\n強化後\n体力消費2\n元気を0にして、減少前の元気の220%分パラメータ上昇",
+    "id": "g8-609932",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609932.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "届いて！",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609932",
+    "tags": [
+      "元気"
+    ],
+    "unlockLevel": 44,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "やる気+6\nやる気の200%分パラメータ上昇\n強化後\nやる気+8\nやる気の300%分パラメータ上昇",
+    "id": "g8-609931",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609931.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "開花",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609931",
+    "tags": [
+      "やる気"
+    ],
+    "unlockLevel": 12,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "好印象+5\n好印象の100%分パラメータ上昇\n強化後\n好印象+6\n好印象の170%分パラメータ上昇",
+    "id": "g8-609930",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609930.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "200% スマイル",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609930",
+    "tags": [
+      "好印象"
+    ],
+    "unlockLevel": 11,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "レッスン開始時手札に入る\n好印象+8\n強化後\nレッスン開始時手札に入る\n好印象+10",
+    "id": "g8-610601",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-610601.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "絡まる想い",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/610601",
+    "tags": [
+      "好印象",
+      "開始時"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "体力消費3\n元気+2（レッスン中に使用したスキルカード1枚ごとに、元気増加量+5）\n強化後\n体力消費3\n元気+2（レッスン中に使用したスキルカード1枚ごとに、元気増加量+8）",
+    "id": "g8-613067",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-613067.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "おっきなおにぎり",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/613067",
+    "tags": [
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "体力消費5\n好印象の250%分パラメータ上昇\n強化後\n体力消費3\n好印象の260%分パラメータ上昇",
+    "id": "g8-615888",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-615888.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "POW！",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/615888",
+    "tags": [
+      "好印象"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "体力消費1\n好印象+5\n強化後\n体力消費1\n好印象+6\n次のターン、スキルカードを引く",
+    "id": "g8-615887",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-615887.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "お泊り猛勉強",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/615887",
+    "tags": [
+      "好印象"
+    ],
+    "unlockSource": "support-event"
+  },
+  {
+    "effectText": "体力消費3\nやる気+7\nやる気が6以上の場合、やる気+3\n強化後\n体力消費3\nやる気+8\nやる気が3以上の場合、やる気+5",
+    "id": "g8-622245",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-622245.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "昼下がりのそよ風",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/622245",
+    "tags": [
+      "やる気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "やる気消費4\nスキルカード使用数追加+1\n以降、スキルカード使用時、好印象の30%分パラメータ上昇\n強化後\nやる気消費4\nスキルカード使用数追加+1\n以降、スキルカード使用時、好印象の50%分パラメータ上昇",
+    "id": "g8-624989",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-624989.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "輝くキミへ",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/624989",
+    "tags": [
+      "好印象",
+      "やる気"
+    ],
+    "unlockLevel": 50,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "好印象消費4\n元気+9\n元気の100%分パラメータ上昇\nやる気の150%分パラメータ上昇\n強化後\n好印象消費4\n元気+14\n元気の130%分パラメータ上昇\nやる気の200%分パラメータ上昇",
+    "id": "g8-624985",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-624985.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "あのときの約束",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/624985",
+    "tags": [
+      "好印象",
+      "やる気",
+      "元気"
+    ],
+    "unlockLevel": 54,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "体力消費2\n好印象+3\nスキルカード使用数追加+1\nスキルカードを引く\n強化後\n体力消費2\n好印象+5\nスキルカード使用数追加+1\nスキルカードを引く",
+    "id": "g8-630606",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-630606.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "金魚すくいで勝負",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/630606",
+    "tags": [
+      "好印象"
+    ],
+    "unlockSource": "unknown"
+  },
+  {
+    "effectText": "レッスン開始時手札に入る\n好印象+3\nやる気+2\n以降、元気効果のスキルカード使用後、好印象+1\n強化後\nレッスン開始時手札に入る\n好印象+4\nやる気+3\n以降、元気効果のスキルカード使用後、好印象+1",
+    "id": "g8-632439",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-632439.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "夏の宵の線香花火",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/632439",
+    "tags": [
+      "好印象",
+      "やる気",
+      "開始時",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "好印象+6\n強化後\n好印象+8",
+    "id": "g8-632449",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-632449.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "初めての場所",
+    "plan": "logic",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/632449",
+    "tags": [
+      "好印象"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "好印象の190％分パラメータ上昇\n強化後\n体力消費3\n好印象の200％分パラメータ上昇",
+    "id": "g8-632448",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-632448.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "初めての未来",
+    "plan": "logic",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/632448",
+    "tags": [
+      "好印象"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "元気+2（やる気効果を2.3倍適用）\n元気の50％分パラメータ上昇\n消費体力削減1\n強化後\n体力-4\n元気+2（やる気効果を2.3倍適用）\n元気の90％分パラメータ上昇\n消費体力削減1",
+    "id": "g8-637451",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-637451.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "さっぱりひといき",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/637451",
+    "tags": [
+      "やる気",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "好印象が3以上の場合、好印象の120％分パラメータ上昇\nやる気が3以上の場合、元気の50％分パラメータ上昇\nスキルカード使用数追加+1\n強化後\n体力-4に変更\n好印象が3以上の場合、好印象の150％分パラメータ上昇\nやる気が3以上の場合、元気の70％分パラメータ上昇\nスキルカード使用数追加+1",
+    "id": "g8-637450",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-637450.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "その本、おもしろい？",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/637450",
+    "tags": [
+      "好印象",
+      "やる気",
+      "元気"
+    ],
+    "unlockSource": "support-event"
+  },
+  {
+    "effectText": "やる気+3\n以降、好印象効果のスキルカード使用時、好印象の30%分のパラメータ上昇\n強化後\nやる気+3\n以降、好印象効果のスキルカード使用時、好印象の50%分のパラメータ上昇",
+    "id": "g8-640097",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-640097.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "月夜のランウェイ",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/640097",
+    "tags": [
+      "好印象",
+      "やる気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "体力消費4\n好印象+4\nやる気+4\n好印象が3以上の場合、スキルカード使用数追加+1\n強化後\n体力消費4\n好印象+6\nやる気+5\n好印象が3以上の場合、スキルカード使用数追加+2",
+    "id": "g8-641576",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-641576.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "悪戦苦闘ハンドメイド",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/641576",
+    "tags": [
+      "好印象",
+      "やる気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "体力消費5\n好印象の250%分パラメータ上昇\n強化後\n体力消費5\n好印象の340%分パラメータ上昇",
+    "id": "g8-654117",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654117.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "キセキの魔法",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654117",
+    "tags": [
+      "好印象"
+    ],
+    "unlockLevel": 59,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "好印象+3\n以降、メンタルスキルカード使用時、やる気+1\n強化後\n好印象+5\n以降、メンタルスキルカード使用時、やる気+1",
+    "id": "g8-655578",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-655578.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "メリクリで～す",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/655578",
+    "tags": [
+      "好印象",
+      "やる気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "元気+4（やる気効果を1.8倍適用）\nやる気の300%分パラメータ上昇\n強化後\n元気+6（やる気効果を2倍適用）\nやる気の400%分パラメータ上昇",
+    "id": "g8-657184",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-657184.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "愛を込めて",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/657184",
+    "tags": [
+      "やる気",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "体力消費3\nやる気+4\n次のターン、元気+5\n最終ターンのターン終了時、元気の130%分パラメータ上昇\n強化後\n体力消費3\nやる気+6\n次のターン、元気+8\n最終ターンのターン終了時、元気の130%分パラメータ上昇",
+    "id": "g8-663109",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-663109.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "広がり続ける世界",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/663109",
+    "tags": [
+      "やる気",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "スキルカード使用数追加+1\n以降、ターン開始時、体力が50%以下の場合、元気の30%分パラメータ上昇・最大体力の5%分体力回復\n強化後\nスキルカード使用数追加+1\n以降、ターン開始時、体力が50%以下の場合、元気の40%分パラメータ上昇・最大体力の10%分体力回復",
+    "id": "g8-663108",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-663108.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "エウレカ！",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/663108",
+    "tags": [
+      "開始時",
+      "元気",
+      "体力回復"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "元気+1\n好印象+3\nスキルカード使用数追加+1\n強化後\n元気+2\n好印象+5\nスキルカード使用数追加+1",
+    "id": "g8-663989",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-663989.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "また、飛べる",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/663989",
+    "tags": [
+      "好印象",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "元気+1\nやる気+5\n強化後\n元気+4\nやる気+6",
+    "id": "g8-609919",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609919.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "いっしょけんめい",
+    "plan": "logic",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609919",
+    "tags": [
+      "やる気",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "好印象+2\n好印象の120%分パラメータ上昇\n強化後\n好印象+2\n好印象の160%分パラメータ上昇",
+    "id": "g8-609918",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609918.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "純白の妖精",
+    "plan": "logic",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609918",
+    "tags": [
+      "好印象"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "元気+6\nやる気の250%分パラメータ上昇\n強化後\n元気+7\nやる気の350%分パラメータ上昇",
+    "id": "g8-609917",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609917.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "苦しいのが好き",
+    "plan": "logic",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609917",
+    "tags": [
+      "やる気",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "好印象+6\n強化後\n好印象+8",
+    "id": "g8-609916",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609916.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "Colorful Cute！",
+    "plan": "logic",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609916",
+    "tags": [
+      "好印象"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "好印象消費2\nやる気+4\nスキルカード使用数追加+1\n強化後\n好印象消費1\nやる気+5\nスキルカード使用数追加+1",
+    "id": "g8-609910",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609910.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "ゆめみごこち",
+    "plan": "logic",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609910",
+    "tags": [
+      "好印象",
+      "やる気"
+    ],
+    "unlockLevel": 32,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "元気+1\n好印象+4\n強化後\n元気+2\n好印象+5",
+    "id": "g8-609909",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609909.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "やる気は満点",
+    "plan": "logic",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609909",
+    "tags": [
+      "好印象",
+      "元気"
+    ],
+    "unlockLevel": 29,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "元気+7\nやる気+4\n強化後\n元気+11\nやる気+5",
+    "id": "g8-609908",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609908.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "イメトレ",
+    "plan": "logic",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609908",
+    "tags": [
+      "やる気",
+      "元気"
+    ],
+    "unlockLevel": 28,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "元気+11\nやる気+5\n消費体力増加2ターン\n強化後\n元気+11\nやる気+7\n消費体力増加2ターン",
+    "id": "g8-609907",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609907.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "ひなたぼっこ",
+    "plan": "logic",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609907",
+    "tags": [
+      "やる気",
+      "元気"
+    ],
+    "unlockLevel": 22,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "レッスン開始時手札に入る好印象+4\nやる気+3\n強化後\nレッスン開始時手札に入る好印象+5\nやる気+4",
+    "id": "g8-609906",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609906.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "本番前夜",
+    "plan": "logic",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609906",
+    "tags": [
+      "好印象",
+      "やる気",
+      "開始時"
+    ],
+    "unlockLevel": 20,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "やる気+3\n以降、Mメンタルスキルカード使用時、やる気+1\n強化後\nやる気+5\n以降、Mメンタルスキルカード使用時、やる気+1",
+    "id": "g8-609905",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609905.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "ワクワクが止まらない",
+    "plan": "logic",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609905",
+    "tags": [
+      "やる気"
+    ],
+    "unlockLevel": 18,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "好印象+3\n以降、Mメンタルスキルカード使用時、好印象+1\n強化後\n好印象+5\n以降、Mメンタルスキルカード使用時、好印象+1",
+    "id": "g8-609904",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609904.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "ファンシーチャーム",
+    "plan": "logic",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609904",
+    "tags": [
+      "好印象"
+    ],
+    "unlockLevel": 17,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "好印象+6\n強化後\n好印象+8",
+    "id": "g8-609903",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609903.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "幸せな時間",
+    "plan": "logic",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609903",
+    "tags": [
+      "好印象"
+    ],
+    "unlockLevel": 7,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "元気+3\n好印象+4\n強化後\n元気+6\n好印象+5",
+    "id": "g8-609902",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609902.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "ふれあい",
+    "plan": "logic",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609902",
+    "tags": [
+      "好印象",
+      "元気"
+    ],
+    "unlockSource": "random-default"
+  },
+  {
+    "effectText": "元気+2\nやる気+4\n強化後\n元気+4\nやる気+5",
+    "id": "g8-609901",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609901.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "あふれる思い出",
+    "plan": "logic",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609901",
+    "tags": [
+      "やる気",
+      "元気"
+    ],
+    "unlockSource": "random-default"
+  },
+  {
+    "effectText": "やる気消費3\n好印象の90%分パラメータ上昇\nスキルカード使用数追加+1\n強化後\nやる気消費2\n好印象の120%分パラメータ上昇\nスキルカード使用数追加+1",
+    "id": "g8-609889",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609889.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "みんな大好き",
+    "plan": "logic",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609889",
+    "tags": [
+      "好印象",
+      "やる気"
+    ],
+    "unlockLevel": 34,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "元気+5\n好印象の200%分パラメータ上昇\n消費体力増加2ターン\n強化後\n元気+5\n好印象の250%分パラメータ上昇\n消費体力増加2ターン",
+    "id": "g8-609888",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609888.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "キラメキ",
+    "plan": "logic",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609888",
+    "tags": [
+      "好印象",
+      "元気"
+    ],
+    "unlockLevel": 24,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "体力消費3\n元気を半分にして、減少前の元気の130%分パラメータ上昇\n強化後\n体力消費3\n元気を半分にして、減少前の元気の180%分パラメータ上昇",
+    "id": "g8-609887",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609887.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "ハートの合図",
+    "plan": "logic",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609887",
+    "tags": [
+      "元気"
+    ],
+    "unlockLevel": 6,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "体力消費3\n元気+9\n元気の40%分パラメータ上昇\n強化後\n体力消費3\n元気+11\n元気の70%分パラメータ上昇",
+    "id": "g8-609886",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609886.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "ありがとうの言葉",
+    "plan": "logic",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609886",
+    "tags": [
+      "元気"
+    ],
+    "unlockSource": "random-default"
+  },
+  {
+    "effectText": "好印象+4\n好印象の60%分パラメータ上昇\n強化後\n好印象+5\n好印象の80%分パラメータ上昇",
+    "id": "g8-609885",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609885.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "ラブリーウインク",
+    "plan": "logic",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609885",
+    "tags": [
+      "好印象"
+    ],
+    "unlockSource": "random-default"
+  },
+  {
+    "effectText": "元気+2\n体力回復3\n強化後\n元気+2\n体力回復5",
+    "id": "g8-610600",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-610600.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "なに聴いてるの？",
+    "plan": "logic",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/610600",
+    "tags": [
+      "元気",
+      "体力回復"
+    ],
+    "unlockSource": "support-event"
+  },
+  {
+    "effectText": "体力消費4\n元気+3\n元気の100%分パラメータ上昇\n強化後\n体力消費4\n元気+3\n元気の140%分パラメータ上昇",
+    "id": "g8-613070",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-613070.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "打倒お姉ちゃん",
+    "plan": "logic",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/613070",
+    "tags": [
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "体力消費4\nやる気+3\n好印象+3\nスキルカード使用数追加+1\n強化後\n体力消費4\nやる気+4\n好印象+5\nスキルカード使用数追加+2",
+    "id": "g8-624992",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-624992.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "止められない想い",
+    "plan": "logic",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/624992",
+    "tags": [
+      "好印象",
+      "やる気"
+    ],
+    "unlockLevel": 48,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "やる気消費3\n好印象+4\nスキルカード使用数追加+1\n強化後\nやる気消費3\n好印象+5\nスキルカード使用数追加+1\n好印象が10以上の場合、好印象+2",
+    "id": "g8-624987",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-624987.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "オトメゴコロ",
+    "plan": "logic",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/624987",
+    "tags": [
+      "好印象",
+      "やる気"
+    ],
+    "unlockLevel": 52,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "やる気消費3\n元気の110%分パラメータ上昇\n次のターンスキルカードを引く\n強化後\nやる気消費2\n元気の110%分パラメータ上昇\n次のターンスキルカードを2枚引く",
+    "id": "g8-654118",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654118.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "きらきら紙吹雪",
+    "plan": "logic",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654118",
+    "tags": [
+      "やる気",
+      "元気"
+    ],
+    "unlockLevel": 57,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "体力消費4\n元気+2\n元気の50%分パラメータ上昇\nやる気+2\n強化後\n体力消費4\n元気+2\n元気の70%分パラメータ上昇\nやる気+3",
+    "id": "g8-609875",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609875.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "元気いっぱい",
+    "plan": "logic",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609875",
+    "tags": [
+      "やる気",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "好印象+1\n以降、ターン終了時、好印象+1\n強化後\nコストを元気-2に変更\n好印象+2\n以降、ターン終了時、好印象+1",
+    "id": "g8-609874",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609874.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "内気系少女",
+    "plan": "logic",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609874",
+    "tags": [
+      "好印象",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "元気+2\nやる気が6以上の場合、元気+3\n強化後\n元気+4\nやる気が6以上の場合、元気+5",
+    "id": "g8-609873",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609873.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "超高学歴アイドル",
+    "plan": "logic",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609873",
+    "tags": [
+      "やる気",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "パラメータ+2\n好印象+5\n強化後\nパラメータ+6\n好印象+6",
+    "id": "g8-609872",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609872.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "アルバイター",
+    "plan": "logic",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609872",
+    "tags": [
+      "好印象"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "やる気+3\nやる気が6以上の場合、好印象+4\n強化後\nやる気+4\nやる気が6以上の場合、好印象+5",
+    "id": "g8-609866",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609866.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "励まし",
+    "plan": "logic",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609866",
+    "tags": [
+      "好印象",
+      "やる気"
+    ],
+    "unlockLevel": 19,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "元気+5\nやる気が3以上の場合、好印象+3\n強化後\n元気+7\nやる気が3以上の場合、好印象+4",
+    "id": "g8-609865",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609865.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "パステル気分",
+    "plan": "logic",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609865",
+    "tags": [
+      "好印象",
+      "やる気",
+      "元気"
+    ],
+    "unlockLevel": 9,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "好印象+3\n好印象が3以上の場合、やる気+2\n強化後\n好印象+4\n好印象が3以上の場合、やる気+3",
+    "id": "g8-609864",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609864.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "思い出し笑い",
+    "plan": "logic",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609864",
+    "tags": [
+      "好印象",
+      "やる気"
+    ],
+    "unlockLevel": 4,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "元気+6\n強化後\n元気+8",
+    "id": "g8-609863",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609863.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "リズミカル",
+    "plan": "logic",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609863",
+    "tags": [
+      "元気"
+    ],
+    "unlockLevel": 2,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "元気+1\nやる気+3\n強化後\n元気+2\nやる気+4",
+    "id": "g8-609861",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609861.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "えいえいおー",
+    "plan": "logic",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609861",
+    "tags": [
+      "やる気",
+      "元気"
+    ],
+    "unlockSource": "random-default"
+  },
+  {
+    "effectText": "元気+2\n好印象+3\n強化後\n元気+2\n好印象+4",
+    "id": "g8-609860",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609860.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "リスタート",
+    "plan": "logic",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609860",
+    "tags": [
+      "好印象",
+      "元気"
+    ],
+    "unlockSource": "random-default"
+  },
+  {
+    "effectText": "体力消費4\n元気の110%分パラメータ上昇\n強化後\n体力消費3\n元気の120%分パラメータ上昇",
+    "id": "g8-609854",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609854.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "元気な挨拶",
+    "plan": "logic",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609854",
+    "tags": [
+      "元気"
+    ],
+    "unlockLevel": 14,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "好印象の150%分パラメータ上昇\n強化後\n好印象の200%分パラメータ上昇",
+    "id": "g8-609853",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609853.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "手拍子",
+    "plan": "logic",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609853",
+    "tags": [
+      "好印象"
+    ],
+    "unlockLevel": 13,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "パラメータ+10\nやる気+3\n強化後\nパラメータ+15\nやる気+4",
+    "id": "g8-609852",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609852.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "もう少しだけ",
+    "plan": "logic",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609852",
+    "tags": [
+      "やる気"
+    ],
+    "unlockSource": "random-default"
+  },
+  {
+    "effectText": "体力消費4\nやる気+3\n元気の60%分パラメータ上昇\n強化後\n体力消費4\nやる気+4\n元気の80%分パラメータ上昇",
+    "id": "g8-609851",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609851.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "ゆるふわおしゃべり",
+    "plan": "logic",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609851",
+    "tags": [
+      "やる気",
+      "元気"
+    ],
+    "unlockSource": "random-default"
+  },
+  {
+    "effectText": "パラメータ+7\n好印象+3\n強化後\nパラメータ+9\n好印象+4",
+    "id": "g8-609850",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609850.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "今日もおはよう",
+    "plan": "logic",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609850",
+    "tags": [
+      "好印象"
+    ],
+    "unlockSource": "random-default"
+  },
+  {
+    "effectText": "体力消費3\n元気+2（レッスン中に使用したスキルカード1枚ごとに、元気増加量+3）\n強化後\n体力消費3\n元気+2（レッスン中に使用したスキルカード1枚ごとに、元気増加量+4）",
+    "id": "g8-613071",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-613071.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "未完の大器",
+    "plan": "logic",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/613071",
+    "tags": [
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "好印象+7\n強化後\n好印象+9",
+    "id": "g8-624994",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-624994.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "幸せのおまじない",
+    "plan": "logic",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/624994",
+    "tags": [
+      "好印象"
+    ],
+    "unlockLevel": 46,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "元気+2（やる気効果を1.5倍適用）\n元気の40％分パラメータ上昇\n消費体力削減1\n強化後\n元気+2（やる気効果を1.5倍適用）\n元気の50％分パラメータ上昇\n消費体力削減2",
+    "id": "g8-637489",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-637489.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "初めてのお相手",
+    "plan": "logic",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/637489",
+    "tags": [
+      "やる気",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "好印象が1以上の場合、使用可最大体力の10%分体力回復\n好印象+3\n元気+5\nスキルカード使用数追加+1\n強化後\n好印象が1以上の場合、使用可最大体力の10%分体力回復\n好印象+5\n元気+10\nスキルカード使用数追加+1",
+    "id": "g8-646871",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-646871.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "また、明日",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/646871",
+    "tags": [
+      "好印象",
+      "元気",
+      "体力回復"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "元気+4\nやる気+4\n元気が30以上の場合、好印象+3\n強化後\n元気+7\nやる気+5\n元気が30以上の場合、好印象+4",
+    "id": "g8-651650",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-651650.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "ほかほか焼き芋",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/651650",
+    "tags": [
+      "好印象",
+      "やる気",
+      "元気"
+    ],
+    "unlockSource": "support-event"
+  },
+  {
+    "effectText": "好印象+3\n好印象の90％分パラメータ上昇\n強化後\n好印象+4\n好印象の100％分パラメータ上昇",
+    "id": "g8-651651",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-651651.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "こうかい・・・・・・？",
+    "plan": "logic",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/651651",
+    "tags": [
+      "好印象"
+    ],
+    "unlockSource": "support-event"
+  },
+  {
+    "effectText": "以降、残り3ターン以内のターン終了時、好印象の140%分パラメータ上昇\n強化後\n以降、残り3ターン以内のターン終了時、好印象の180%分パラメータ上昇",
+    "id": "g8-661611",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-661611.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "自慢のお姉ちゃんだぞ",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/661611",
+    "tags": [
+      "好印象"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "体力消費3\n元気が30以上の場合、使用可\n元気+3\n以降の3ターンの間、ターン開始時、元気の60％分のパラメータ上昇\n強化後\n体力消費3\n元気が30以上の場合、使用可\n元気+3\n以降の3ターンの間、ターン開始時、元気の60％分のパラメータ上昇",
+    "id": "g8-692632",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-692632.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "デイドリーミング",
+    "plan": "logic",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/692632",
+    "tags": [
+      "開始時",
+      "元気"
+    ],
+    "unlockSource": "unknown"
+  },
+  {
+    "effectText": "元気+2\nやる気+4\nパラメータ上昇量増加10％\n好印象が15以上の場合、以降の3ターンの間、ターン開始時、好印象1.1倍\n強化後\n元気+2\nやる気+5\nパラメータ上昇量増加20％\n好印象が15以上の場合、以降の3ターンの間、ターン開始時、好印象1.1倍",
+    "id": "g8-692630",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-692630.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "夢色リップ",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/692630",
+    "tags": [
+      "好印象",
+      "やる気",
+      "開始時",
+      "元気"
+    ],
+    "unlockSource": "unknown"
+  },
+  {
+    "effectText": "元気+2\n好印象+3\n好印象1.1倍\n強化後\n元気+3\n好印象+4\n好印象1.1倍",
+    "id": "g8-695892",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-695892.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "戦う理由",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/695892",
+    "tags": [
+      "好印象",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "体力消費2\nやる気+2\n次のターン、元気+3\n以降、直接効果で元気の20％分パラメータ上昇\n強化後\n体力消費2\nやる気+3\n次のターン、元気+3\n以降、直接効果で元気の30％分パラメータ上昇",
+    "id": "g8-701853",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-701853.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "憧れのアイドル",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/701853",
+    "tags": [
+      "やる気",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "元気+2（レッスン中に使用したスキルカード1枚ごとに、元気増加量+5）\n好印象+2\n強化後\n元気+2（レッスン中に使用したスキルカード1枚ごとに、元気増加量+5）\n好印象+2",
+    "id": "g8-708547",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-708547.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "つかみ取った未来",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/708547",
+    "tags": [
+      "好印象",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "元気+2\nやる気+3\n好印象+4\nスキルカード使用数追加+1\n眠気を山札のランダムな位置に生成\n強化後\n元気+3\nやる気+4\n好印象+5\nスキルカード使用数追加+1\n眠気を山札のランダムな位置に生成",
+    "id": "g8-753502",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-753502.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "成長痛",
+    "plan": "logic",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/753502",
+    "tags": [
+      "好印象",
+      "やる気",
+      "元気"
+    ],
+    "unlockLevel": 57,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "元気+3\nやる気+5\nスキルカード使用数追加+1\nスキルカードを引く\n眠気を山札のランダムな位置に生成\n強化後\n元気+4\nやる気+6\nスキルカード使用数追加+1\nスキルカードを引く\n眠気を山札のランダムな位置に生成",
+    "id": "g8-753501",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-753501.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "気まぐれハート",
+    "plan": "logic",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/753501",
+    "tags": [
+      "やる気",
+      "元気"
+    ],
+    "unlockLevel": 54,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "好印象+6\nスキルカード使用数追加+1\nスキルカードを引く\n眠気を山札のランダムな位置に生成\n強化後\n元気+1\n好印象+7\nスキルカード使用数追加+1\nスキルカードを引く\n眠気を山札のランダムな位置に生成",
+    "id": "g8-753500",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-753500.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "冒険心",
+    "plan": "logic",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/753500",
+    "tags": [
+      "好印象",
+      "元気"
+    ],
+    "unlockLevel": 53,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "元気+2\nやる気+2\n除外以外にあるトラブルカードが2枚以上の場合、元気の50%分パラメータ上昇\n強化後\n元気+2\nやる気+3\n除外以外にあるトラブルカードが2枚以上の場合、元気の50%分パラメータ上昇",
+    "id": "g8-753493",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-753493.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "がむしゃら",
+    "plan": "logic",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/753493",
+    "tags": [
+      "やる気",
+      "元気"
+    ],
+    "unlockLevel": 52,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "好印象+2\n好印象の60%分パラメータ上昇\n除外以外にあるトラブルカードが2枚以上の場合、好印象の40%分パラメータ上昇\n強化後\n好印象+3\n好印象の80%分パラメータ上昇\n除外以外にあるトラブルカードが2枚以上の場合、好印象の40%分パラメータ上昇",
+    "id": "g8-753492",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-753492.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "おまもりミラクル",
+    "plan": "logic",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/753492",
+    "tags": [
+      "好印象"
+    ],
+    "unlockLevel": 51,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "やる気消費3、好印象+3、スキルカード使用数追加+1、次のターン、スキルカードを引く、やる気が6以上の場合、スキルカードを2枚引く",
+    "id": "g8-756497",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-756497.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "あこがれ不良ムーブ",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/756497",
+    "tags": [
+      "好印象",
+      "やる気"
+    ],
+    "unlockSource": "support-event"
+  },
+  {
+    "effectText": "ランダムな山札か捨札の眠気を除外に移動、好印象+4、やる気+3",
+    "id": "g8-756496",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-756496.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "味見はいかが",
+    "plan": "logic",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/756496",
+    "tags": [
+      "好印象",
+      "やる気"
+    ],
+    "unlockSource": "support-event"
+  },
+  {
+    "effectText": "以降の2ターンの間、ターン終了時、元気の50%分パラメータ上昇\n強化後\n以降の3ターンの間、ターン終了時、元気の50%分パラメータ上昇",
+    "id": "g8-706451",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-706451.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "初めての野望",
+    "plan": "logic",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/706451",
+    "tags": [
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "元気+5、やる気+2\n強化後\n元気+7、やる気+3",
+    "id": "g8-706450",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-706450.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "初めての息",
+    "plan": "logic",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/706450",
+    "tags": [
+      "やる気",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "元気＋3好印象＋4やる気＋3\n強化後\n元気+3\n好印象+6\nやる気+3",
+    "id": "g8-713807",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-713807.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "爆盛れ最強ルック♪",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/713807",
+    "tags": [
+      "好印象",
+      "やる気",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "以降やる気が6以上の場合、アクティブスキルカードを2回使用する事に、元気＋7\n強化後\nやる気+3\n以降やる気が6以上の場合\nアクティブスキルカードを2回使用する事に、元気＋8",
+    "id": "g8-713806",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-713806.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "ドラマチックホリデー",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/713806",
+    "tags": [
+      "やる気",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "体力消費7\n好印象が10以上の場合、使用可\n元気+2\nやる気+2\n山札か捨札にあるスキルカード1枚ごとに、好印象+2\nスキルカード使用数追加+1\n強化後\n体力消費5\n好印象が10以上の場合、使用可\n元気+6\nやる気+4\n山札か捨札にあるスキルカード1枚ごとに、好印象+2\nスキルカード使用数追加+1",
+    "id": "g8-721401",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-721401.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "微熱ノスタルジー",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/721401",
+    "tags": [
+      "好印象",
+      "やる気",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "好印象強化+100%(3ターン)好印象が10以上の場合、以降の3ターンの間、ターン開始時、スキルカードを引く",
+    "id": "g8-727920",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-727920.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "対象、ロックオン",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/727920",
+    "tags": [
+      "好印象",
+      "開始時"
+    ],
+    "unlockSource": "support-event"
+  },
+  {
+    "effectText": "好印象+3、好印象強化+20%、スキルカード使用数追加+1、消費体力増加1ターン\n強化後\n好印象+4、好印象強化+20%、スキルカード使用数追加+1、消費体力増加1ターン",
+    "id": "g8-727919",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-727919.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "空まで一直線",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/727919",
+    "tags": [
+      "好印象"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "元気-6、やる気が9以上の場合使用可、プライド(5ターン)、スキルカード使用回数+1、好印象+8、スキルカードを引く\n強化後\n元気-4、やる気が9以上の場合使用可、プライド(5ターン)、スキルカード使用回数+1、好印象+9、スキルカードを引く",
+    "id": "g8-744262",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-744262.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "私は、決して",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/744262",
+    "tags": [
+      "好印象",
+      "やる気",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "好印象+2、以降4回まで、ターン終了時やる気が6以上の場合、好印象の80%分パラメーター上昇\n強化後\n元気-6、好印象+4、以降4回まで、ターン終了時やる気が6以上の場合、好印象の80%分パラメーター上昇",
+    "id": "g8-744272",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-744272.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "紫電一閃",
+    "plan": "logic",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/744272",
+    "tags": [
+      "好印象",
+      "やる気",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "やる気消費-2、好印象+1、次のターン、スキルカードを2枚引く、体力が50%以上の場合、好印象+1、体力が80%以上の場合、好印象+2、体力が100%の場合、好印象の220%分パラメータ上昇\n強化後\nやる気消費-2、好印象+1、次のターンスキルカードを2枚引く、体力が50%以上の場合、好印象+1、体力が80%以上の場合、好印象+2、体力が100%の場合、好印象の320%分パラメータ上昇",
+    "id": "g8-758544",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-758544.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "心が跳ねるままに",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/758544",
+    "tags": [
+      "好印象",
+      "やる気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "やる気消費2、4ターン後、好印象の120%分パラメータ上昇、やる気が3以上の場合、以降の3ターンの間、ターン終了時、好印象+2",
+    "id": "g8-758543",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-758543.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "ふれんどめもりーず",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/758543",
+    "tags": [
+      "好印象",
+      "やる気"
+    ],
+    "unlockSource": "support-event"
+  },
+  {
+    "effectText": "好印象+4、好印象強化+10%\n強化後\n好印象+5、好印象強化+10%",
+    "id": "g8-758617",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-758617.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "イメチェン",
+    "plan": "logic",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/758617",
+    "tags": [
+      "好印象"
+    ],
+    "unlockLevel": 72,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "レッスン開始時手札に入る、スキルカード使用数追加+1、以降元気効果のスキルカードを2回使用するごとに、私を超えて(翔)を山札の一番上に生成\n強化後\nレッスン開始時手札に入る、スキルカード使用数追加+1、以降元気効果のスキルカードを2回使用するごとに、私を超えて(翔)を山札の一番上に生成",
+    "id": "g8-760659",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-760659.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "私を超えて",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/760659",
+    "tags": [
+      "開始時",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "体力消費1、元気が15以上の場合使用可、元気の80%分パラメータ上昇、スキルカード使用数追加+1、スキルカードを引く\n強化後\n-",
+    "id": "g8-760658",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-760658.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "私を超えて(翔)",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/760658",
+    "tags": [
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "体力消費3、やる気が6以上の場合使用可、元気+3、元気の100%分パラメータ上昇、次のターンスキルカードを2枚引く\n強化後\n体力消費2、やる気が6以上の場合使用可、元気+3、元気の130%分パラメータ上昇、次のターンスキルカードを2枚引く",
+    "id": "g8-760657",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-760657.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "お姉ちゃん、参戦！",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/760657",
+    "tags": [
+      "やる気",
+      "元気"
+    ],
+    "unlockSource": "support-event"
+  },
+  {
+    "effectText": "好印象+3、好印象強化+50%（5ターン）\n強化後\n好印象+5、好印象強化+50%（5ターン）",
+    "id": "g8-764480",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-764480.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "虜になあれ",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/764480",
+    "tags": [
+      "好印象"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "以降の3ターンの間、ターン開始時、元気+2、4ターン後、元気の180%分パラメータ上昇\n強化後\n以降の3ターンの間、ターン開始時、元気+2、4ターン後、元気の280%分パラメーター上昇",
+    "id": "g8-768600",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-768600.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "せのびの魔法",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/768600",
+    "tags": [
+      "開始時",
+      "元気"
+    ],
+    "unlockLevel": 76,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "好印象が10以上の場合、使用可、好印象強化+200%（3ターン）以降の3ターンの間、直接効果で好印象が増加後、好印象の100%分パラメータ上昇\n強化後\n好印象が10以上の場合、使用可、好印象強化+200%（4ターン）以降の4ターンの間、直接効果で好印象が増加後、好印象の100%分パラメータ上昇",
+    "id": "g8-768597",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-768597.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "びしっとキメ顔",
+    "plan": "logic",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/768597",
+    "tags": [
+      "好印象"
+    ],
+    "unlockLevel": 79,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "集中+3\n好調2ターン\n次のターン、手札をすべてレッスン中強化\n強化後\n集中+4\n好調4ターン\n次のターン、手札をすべてレッスン中強化",
+    "id": "g8-609962",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609962.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "喧嘩するほど仲がいい",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609962",
+    "tags": [
+      "好調",
+      "集中"
+    ],
+    "unlockSource": "support-event"
+  },
+  {
+    "effectText": "パラメータ+7（2回）\n集中が6以上の場合、パラメータ+7\n強化後\nコストを元気-3に変更\nパラメータ+9（2回）\n集中が6以上の場合、パラメータ+9",
+    "id": "g8-609951",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609951.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "ワンモアステップ",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609951",
+    "tags": [
+      "集中",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "集中+4\n体力回復4\n強化後\nコストを元気-3に変更\n集中+5\n体力回復5",
+    "id": "g8-609950",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609950.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "距離感",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609950",
+    "tags": [
+      "集中",
+      "元気",
+      "体力回復"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "パラメータ+12\n好調状態の場合、パラメータ+14\n強化後\nパラメータ+18\n好調状態の場合、パラメータ+20",
+    "id": "g8-609949",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609949.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "盛装の華形",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609949",
+    "tags": [
+      "好調"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "パラメータ+14\n集中+5\n強化後\nコストを元気-4に変更\nパラメータ+15\n集中+5",
+    "id": "g8-609948",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609948.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "それぞれの道",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609948",
+    "tags": [
+      "集中",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "パラメータ+34\n強化後\nパラメータ+48",
+    "id": "g8-609947",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609947.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "絶対に負けない",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609947",
+    "tags": [],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "集中+1\n以降、ターン終了時集中が3以上の場合、集中+2\n強化後\nコストを元気-5に変更\n集中+1\n以降、ターン終了時集中が3以上の場合、集中+2",
+    "id": "g8-609940",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609940.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "天真爛漫",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609940",
+    "tags": [
+      "集中",
+      "元気"
+    ],
+    "unlockLevel": 45,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "集中+4\n好調2ターン\n消費体力減少2ターン\n強化後\n集中+5\n好調3ターン\n消費体力減少3ターン",
+    "id": "g8-609939",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609939.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "鳴り止まない拍手",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609939",
+    "tags": [
+      "好調",
+      "集中"
+    ],
+    "unlockLevel": 38,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "集中消費3\n絶好調4ターン\n消費体力減少2ターン\nスキルカード使用数追加+1\n強化後\n集中消費3\n絶好調5ターン\n消費体力減少5ターン\nスキルカード使用数追加+1",
+    "id": "g8-609938",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609938.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "魅惑の視線",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609938",
+    "tags": [
+      "好調",
+      "絶好調",
+      "集中"
+    ],
+    "unlockLevel": 30,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "好調消費1ターン\n次に使用するスキルカードの効果をもう1回発動（1回）\nスキルカード使用数追加+1\n強化後\n好調消費1ターン\n元気+8\n次に使用するスキルカードの効果をもう1回発動（1回）\nスキルカード使用数追加+1",
+    "id": "g8-609937",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609937.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "国民的アイドル",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609937",
+    "tags": [
+      "好調",
+      "元気"
+    ],
+    "unlockLevel": 25,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "好調状態の場合、使用可\n絶好調2ターン\n次のターン、パラメータ+38\n強化後\n好調状態の場合、使用可\n絶好調3ターン\n次のターン、パラメータ+47",
+    "id": "g8-609929",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609929.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "魅惑のパフォーマンス",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609929",
+    "tags": [
+      "好調",
+      "絶好調"
+    ],
+    "unlockLevel": 43,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "好調4ターン\n次のターン、パラメータ+32\n強化後\n好調7ターン\n次のターン、パラメータ+40",
+    "id": "g8-609928",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609928.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "成就",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609928",
+    "tags": [
+      "好調"
+    ],
+    "unlockLevel": 41,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "好調状態の場合、使用可\nパラメータ+38\n強化後\n好調状態の場合、使用可\nパラメータ+54",
+    "id": "g8-609927",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609927.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "バズワード",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609927",
+    "tags": [
+      "好調"
+    ],
+    "unlockLevel": 12,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "パラメータ+15\n集中が3以上の場合、パラメータ+15\n強化後\nパラメータ+15\n集中が3以上の場合、パラメータ+34（集中効果を1.5倍適用）",
+    "id": "g8-609926",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609926.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "コール&レスポンス",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609926",
+    "tags": [
+      "集中"
+    ],
+    "unlockLevel": 11,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "好調3ターン\n絶好調4ターン\n強化後\n好調4ターン\n絶好調5ターン",
+    "id": "g8-614442",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-614442.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "アドレナリン全開",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/614442",
+    "tags": [
+      "好調",
+      "絶好調"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "パラメータ+9（3回）\n強化後\nパラメータ+14（3回）",
+    "id": "g8-622244",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-622244.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "ひんやり一休み",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/622244",
+    "tags": [],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "次に使用するアクティブスキルカードの効果をもう1回発動（1回・1ターン）\n好調3ターン\n消費体力減少2ターン\n強化後\n次に使用するアクティブスキルカードの効果をもう1回発動（1回・1ターン）\n好調5ターン\n消費体力減少2ターン",
+    "id": "g8-624932",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-624932.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "入道雲と、きみ",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/624932",
+    "tags": [
+      "好調"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "体力消費6\nパラメータ+33\n好調が4ターン以上の場合、2ターン後、体力回復4\n強化後\n体力消費6\nパラメータ+45\n好調が4ターン以上の場合、2ターン後、体力回復6",
+    "id": "g8-624933",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-624933.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "はじける水しぶき",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/624933",
+    "tags": [
+      "好調",
+      "体力回復"
+    ],
+    "unlockSource": "support-event"
+  },
+  {
+    "effectText": "集中消費3\n以降、アクティブスキルカード使用時、パラメータ+4\n強化後\n集中消費2\n次のターンスキルカードを引く\n以降、アクティブスキルカード使用時、パラメータ+5",
+    "id": "g8-624990",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-624990.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "至高のエンタメ",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/624990",
+    "tags": [
+      "集中"
+    ],
+    "unlockLevel": 50,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "好調消費1ターン\nパラメータ+3(2回)\n集中+4\n強化後\n好調消費1ターン\nパラメータ+4(2回)\n集中+6",
+    "id": "g8-624986",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-624986.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "覚醒",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/624986",
+    "tags": [
+      "好調",
+      "集中"
+    ],
+    "unlockLevel": 53,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "パラメータ+5(集中効果を2.3倍適用)\n体力が50%以下の場合、元気+6\n強化後\nパラメータ+8(集中効果を2.6倍適用)\n体力が50%以下の場合、元気+12",
+    "id": "g8-628595",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-628595.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "バスに揺られて",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/628595",
+    "tags": [
+      "集中",
+      "元気"
+    ],
+    "unlockSource": "unknown"
+  },
+  {
+    "effectText": "パラメータ+7（集中効果を1.5倍適用）\n集中+4\n強化後\nパラメータ+13（集中効果を1.5倍適用）\n集中+5",
+    "id": "g8-630609",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-630609.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "交わる感情",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/630609",
+    "tags": [
+      "集中"
+    ],
+    "unlockSource": "support-event"
+  },
+  {
+    "effectText": "好調状態の場合、使用可\nパラメータ+9\n好調の200%分パラメータ上昇\n強化後\n好調状態の場合、使用可\nパラメータ+12\n好調の300%分パラメータ上昇",
+    "id": "g8-630607",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-630607.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "はじめてのラムネ",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/630607",
+    "tags": [
+      "好調"
+    ],
+    "unlockSource": "unknown"
+  },
+  {
+    "effectText": "好調3ターン\n絶好調2ターン\n強化後\n好調4ターン\n絶好調2ターン",
+    "id": "g8-632450",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-632450.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "初めてのご褒美",
+    "plan": "sense",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/632450",
+    "tags": [
+      "好調",
+      "絶好調"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "元気+3\n絶好調+2ターン\nスキルカード使用数追加+1\nスキルカードを引く\n強化後\n元気+5\n絶好調+3ターン\nスキルカード使用数追加+1\nスキルカードを引く",
+    "id": "g8-634821",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-634821.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "お茶会へようこそ",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/634821",
+    "tags": [
+      "好調",
+      "絶好調",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "レッスン開始時手札に入る\n集中+3\nスキルカード使用数追加+1\n強化後\nレッスン開始時手札に入る\n集中+4\n消費体力減少1ターン\nスキルカード使用数追加+1",
+    "id": "g8-638927",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-638927.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "こくりとひとくち",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/638927",
+    "tags": [
+      "集中",
+      "開始時"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "パラメータ+8(2回)\n集中が3以上の場合、集中+2\n強化後\nパラメータ+10(2回)\n集中が3以上の場合、集中+4",
+    "id": "g8-641577",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-641577.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "悪戯しちゃいますわ！",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/641577",
+    "tags": [
+      "集中"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "レッスン開始時手札に入る\n好調3ターン\n低下状態無効1回\nスキルカード使用数追加+1\n強化後\nレッスン開始時手札に入る\n好調5ターン\n低下状態無効1回\nスキルカード使用数追加+1",
+    "id": "g8-642701",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-642701.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "正確無比な看板づくり",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/642701",
+    "tags": [
+      "好調",
+      "開始時"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "集中+1\n以降、ターン開始時、好調2ターン\n強化後\n集中+3\n以降、ターン開始時、好調2ターン",
+    "id": "g8-655576",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-655576.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "おすそわけですっ！",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/655576",
+    "tags": [
+      "好調",
+      "集中",
+      "開始時"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "集中が6以上の場合、使用可\n集中1.3倍\n次のターン、パラメータ+9（3回・集中効果を1.5倍適用）\n強化後\n集中が6以上の場合、使用可\n集中1.5倍\n次のターン、パラメータ+9（3回・集中効果を1.5倍適用）",
+    "id": "g8-663988",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-663988.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "いつか見た景色",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/663988",
+    "tags": [
+      "集中"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "パラメータ+17（集中効果を2倍適用）\n強化後\nパラメータ+24（集中効果を2.5倍適用）",
+    "id": "g8-609915",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609915.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "勇気の一歩",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609915",
+    "tags": [
+      "集中"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "元気+10\n集中+4\n強化後\n元気+12\n集中+5",
+    "id": "g8-609914",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609914.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "寄り添う気持ち",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609914",
+    "tags": [
+      "集中",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "パラメータ+4\n好調状態の場合、集中+3\n強化後\nパラメータ+6\n好調状態の場合、集中+4",
+    "id": "g8-609913",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609913.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "らしさ",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609913",
+    "tags": [
+      "好調",
+      "集中"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "パラメータ+12\n集中が3以上の場合、パラメータ+12\n強化後\nコストを元気-2に変更\nパラメータ+12\n集中が3以上の場合、パラメータ+12",
+    "id": "g8-609912",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609912.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "ローン・ウルフ",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609912",
+    "tags": [
+      "集中",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "パラメータ+18\n好調3ターン\n強化後\nパラメータ+25\n好調4ターン",
+    "id": "g8-609911",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609911.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "一番は譲らない",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609911",
+    "tags": [
+      "好調"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "好調消費2ターン\n元気+2\n集中+7\n強化後\n好調消費2ターン\n元気+4\n集中+9",
+    "id": "g8-609900",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609900.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "成功への道筋",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609900",
+    "tags": [
+      "好調",
+      "集中",
+      "元気"
+    ],
+    "unlockLevel": 36,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "好調消費2ターン\n集中+4\n+1スキルカード使用数追加+1\n強化後\n好調消費1ターン\n集中+5\n+1スキルカード使用数追加+1",
+    "id": "g8-609899",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609899.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "存在感",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609899",
+    "tags": [
+      "好調",
+      "集中"
+    ],
+    "unlockLevel": 31,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "元気+3\n集中+4\n強化後\n元気+5\n集中+5",
+    "id": "g8-609898",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609898.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "意地",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609898",
+    "tags": [
+      "集中",
+      "元気"
+    ],
+    "unlockLevel": 29,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "好調5ターン\n強化後\n好調7ターン",
+    "id": "g8-609897",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609897.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "始まりの合図",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609897",
+    "tags": [
+      "好調"
+    ],
+    "unlockLevel": 28,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "レッスン開始時手札に入る\n集中+3\n好調2ターン\n強化後\nレッスン開始時手札に入る\n集中+4\n好調3ターン",
+    "id": "g8-609896",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609896.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "静かな意志",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609896",
+    "tags": [
+      "好調",
+      "集中",
+      "開始時"
+    ],
+    "unlockLevel": 20,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "集中+2\n以降、Aアクティブスキルカード使用時、集中+1\n強化後\n集中+3\n以降、Aアクティブスキルカード使用時、集中+1",
+    "id": "g8-609895",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609895.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "願いの力",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609895",
+    "tags": [
+      "集中"
+    ],
+    "unlockLevel": 18,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "絶好調3ターン\n以降、Aアクティブスキルカード使用時、固定元気+2\n強化後\n絶好調4ターン\n以降、Aアクティブスキルカード使用時、固定元気+2",
+    "id": "g8-609894",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609894.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "演出計画",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609894",
+    "tags": [
+      "好調",
+      "絶好調",
+      "元気"
+    ],
+    "unlockLevel": 17,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "元気+6\n好調3ターン\n強化後\n元気+8\n好調4ターン",
+    "id": "g8-609893",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609893.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "大声援",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609893",
+    "tags": [
+      "好調",
+      "元気"
+    ],
+    "unlockSource": "random-default"
+  },
+  {
+    "effectText": "元気+6\n集中+3\n強化後\n元気+8\n集中+4",
+    "id": "g8-609892",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609892.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "眼力",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609892",
+    "tags": [
+      "集中",
+      "元気"
+    ],
+    "unlockSource": "random-default"
+  },
+  {
+    "effectText": "集中消費3\nパラメータ+6\n好調2ターン\nスキルカード使用数追加+1\n強化後\n集中消費2\nパラメータ+6\n好調3ターン\nスキルカード使用数追加+1",
+    "id": "g8-609884",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609884.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "シュプレヒコール",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609884",
+    "tags": [
+      "好調",
+      "集中"
+    ],
+    "unlockLevel": 33,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "パラメータ+12\n元気+7\n集中+5\n消費体力増加2ターン\n強化後\nパラメータ+12\n元気+7\n集中+7\n消費体力増加2ターン",
+    "id": "g8-609883",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609883.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "スタンドプレー",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609883",
+    "tags": [
+      "集中",
+      "元気"
+    ],
+    "unlockLevel": 24,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "パラメータ+30\n元気+10\n消費体力増加2ターン\n強化後\nパラメータ+40\n元気+10\n消費体力増加2ターン",
+    "id": "g8-609882",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609882.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "スタートダッシュ",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609882",
+    "tags": [
+      "元気"
+    ],
+    "unlockLevel": 22,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "体力消費4\nパラメータ+26\n好調1ターン\n強化後\n体力消費4\nパラメータ+40\n好調1ターン",
+    "id": "g8-609881",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609881.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "祝福",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609881",
+    "tags": [
+      "好調"
+    ],
+    "unlockLevel": 7,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "パラメータ+13\n集中が6以上の場合、パラメータ+15\n強化後\nコストを元気-2に変更\nパラメータ+13\n集中が6以上の場合、パラメータ+15",
+    "id": "g8-609880",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609880.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "飛躍",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609880",
+    "tags": [
+      "集中",
+      "元気"
+    ],
+    "unlockLevel": 6,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "パラメータ+11\n集中+3\n強化後\nパラメータ+18\n集中+4",
+    "id": "g8-609879",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609879.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "情熱ターン",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609879",
+    "tags": [
+      "集中"
+    ],
+    "unlockSource": "random-default"
+  },
+  {
+    "effectText": "パラメータ+5\n好調3ターン\n強化後\nパラメータ+9\n好調4ターン",
+    "id": "g8-609878",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609878.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "アドリブ",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609878",
+    "tags": [
+      "好調"
+    ],
+    "unlockSource": "random-default"
+  },
+  {
+    "effectText": "パラメータ+18\n強化後\nパラメータ+27",
+    "id": "g8-609877",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609877.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "決めポーズ",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609877",
+    "tags": [],
+    "unlockSource": "random-default"
+  },
+  {
+    "effectText": "好調3ターン\n集中+2\n体力が50%以上の場合、次のターン、スキルカードを引く\n強化後\n好調4ターン\n集中+3\n体力が50%以上の場合、次のターン、スキルカードを引く",
+    "id": "g8-613076",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-613076.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "キメ顔で自撮り",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/613076",
+    "tags": [
+      "好調",
+      "集中"
+    ],
+    "unlockSource": "support-event"
+  },
+  {
+    "effectText": "体力消費3\n元気+7\n好調4ターン\n強化後\n体力消費3\n元気+9\n好調5ターン",
+    "id": "g8-624991",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-624991.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "スポットライト",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/624991",
+    "tags": [
+      "好調",
+      "元気"
+    ],
+    "unlockLevel": 49,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "集中消費3\nパラメータ+25\n元気+15\n元気増加無効2ターン\n強化後\n集中消費3\nパラメータ+40\n元気+15\n元気増加無効2ターン",
+    "id": "g8-624988",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-624988.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "立ち位置チェック",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/624988",
+    "tags": [
+      "集中",
+      "元気"
+    ],
+    "unlockLevel": 51,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "好調4ターン\n次のターン、スキルカードを引く\n強化後\n好調5ターン\n次のターン、スキルカードを2枚引く",
+    "id": "g8-630608",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-630608.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "切れた鼻緒が結んだ絆",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/630608",
+    "tags": [
+      "好調"
+    ],
+    "unlockSource": "support-event"
+  },
+  {
+    "effectText": "絶好調2ターン\n体力回復2\n強化後\n絶好調3ターン\n体力回復4",
+    "id": "g8-655577",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-655577.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "光の夜",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/655577",
+    "tags": [
+      "好調",
+      "絶好調",
+      "体力回復"
+    ],
+    "unlockSource": "support-event"
+  },
+  {
+    "effectText": "パラメータ+10\n集中が6以上の場合、パラメータ+10\n強化後\nパラメータ+12（2回）",
+    "id": "g8-609871",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609871.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "フレンドリー",
+    "plan": "sense",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609871",
+    "tags": [
+      "集中"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "パラメータ+2\n元気+1\n体力回復2\n強化後\nパラメータ+3\n元気+4\n体力回復2",
+    "id": "g8-609870",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609870.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "包容力",
+    "plan": "sense",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609870",
+    "tags": [
+      "元気",
+      "体力回復"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "パラメータ+8\n好調状態の場合、パラメータ+3\n強化後\nパラメータ+13\n好調状態の場合、パラメータ+5",
+    "id": "g8-609869",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609869.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "リトル・プリンス",
+    "plan": "sense",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609869",
+    "tags": [
+      "好調"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "パラメータ+7\n集中+3\n強化後\nパラメータ+7\n集中+5",
+    "id": "g8-609868",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609868.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "意地っ張り",
+    "plan": "sense",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609868",
+    "tags": [
+      "集中"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "パラメータ+17\n強化後\nパラメータ+25",
+    "id": "g8-609867",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609867.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "新進気鋭",
+    "plan": "sense",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609867",
+    "tags": [],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "集中+2\n集中が3以上の場合、好調3ターン\n強化後\n集中+3\n集中が3以上の場合、好調3ターン",
+    "id": "g8-609859",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609859.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "深呼吸",
+    "plan": "sense",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609859",
+    "tags": [
+      "好調",
+      "集中"
+    ],
+    "unlockLevel": 19,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "好調3ターン\n好調状態の場合、集中+1\n強化後\n好調4ターン\n好調状態の場合、集中+1",
+    "id": "g8-609858",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609858.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "楽観的",
+    "plan": "sense",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609858",
+    "tags": [
+      "好調",
+      "集中"
+    ],
+    "unlockLevel": 4,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "集中+3\n強化後\n元気+1\n集中+4",
+    "id": "g8-609857",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609857.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "バランス感覚",
+    "plan": "sense",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609857",
+    "tags": [
+      "集中",
+      "元気"
+    ],
+    "unlockSource": "random-default"
+  },
+  {
+    "effectText": "好調状態の場合、使用可\nパラメータ+27\n強化後\n好調状態の場合、使用可\nパラメータ+38",
+    "id": "g8-609849",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609849.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "トークタイム",
+    "plan": "sense",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609849",
+    "tags": [
+      "好調"
+    ],
+    "unlockLevel": 14,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "パラメータ+17（集中効果を1.5倍適用）\n強化後\nパラメータ+23（集中効果を2倍適用）",
+    "id": "g8-609848",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609848.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "ハイタッチ",
+    "plan": "sense",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609848",
+    "tags": [
+      "集中"
+    ],
+    "unlockLevel": 13,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "パラメータ+6\n好調状態の場合、集中+3\n強化後\nパラメータ+9\n好調状態の場合、集中+4",
+    "id": "g8-609847",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609847.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "勢い任せ",
+    "plan": "sense",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609847",
+    "tags": [
+      "好調",
+      "集中"
+    ],
+    "unlockLevel": 9,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "パラメータ+10\n強化後\nパラメータ+16",
+    "id": "g8-609846",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609846.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "ファンサ",
+    "plan": "sense",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609846",
+    "tags": [],
+    "unlockLevel": 2,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "パラメータ+6\n集中+2\n強化後\nパラメータ+9\n集中+3",
+    "id": "g8-609845",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609845.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "準備運動",
+    "plan": "sense",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609845",
+    "tags": [
+      "集中"
+    ],
+    "unlockSource": "random-default"
+  },
+  {
+    "effectText": "パラメータ+13\n強化後\nパラメータ+21",
+    "id": "g8-609844",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609844.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "愛嬌",
+    "plan": "sense",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609844",
+    "tags": [],
+    "unlockSource": "random-default"
+  },
+  {
+    "effectText": "パラメータ+6\n好調2ターン\n強化後\nパラメータ+9\n好調3ターン",
+    "id": "g8-609843",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-609843.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "軽い足取り",
+    "plan": "sense",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/609843",
+    "tags": [
+      "好調"
+    ],
+    "unlockSource": "random-default"
+  },
+  {
+    "effectText": "好調3ターン\n集中+4\n強化後\n好調4ターン\n集中+5",
+    "id": "g8-624993",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-624993.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "ひと呼吸",
+    "plan": "sense",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/624993",
+    "tags": [
+      "好調",
+      "集中"
+    ],
+    "unlockLevel": 47,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "好印象の200%分パラメータ上昇\n強化後\n好印象の250%分パラメータ上昇",
+    "id": "g8-637491",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-637491.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "初めての地平",
+    "plan": "sense",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/637491",
+    "tags": [
+      "好印象"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "元気+5\n絶好調2ターン\n強化後\n元気+5\n絶好調3ターン",
+    "id": "g8-637490",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-637490.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "初めての色",
+    "plan": "sense",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/637490",
+    "tags": [
+      "好調",
+      "絶好調",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "パラメータ+6\n絶好調3ターン\n強化後\nパラメータ+10\n絶好調4ターン",
+    "id": "g8-654119",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-654119.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "エキサイト",
+    "plan": "sense",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/654119",
+    "tags": [
+      "好調",
+      "絶好調"
+    ],
+    "unlockLevel": 56,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "集中+4\n集中が3以上の場合、次のターン、手札をすべてレッスン中強化\n強化後\n元気-4\n集中+5\n集中が3以上の場合、次のターン、手札をすべてレッスン中強化",
+    "id": "g8-642702",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-642702.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "気になる",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/642702",
+    "tags": [
+      "集中",
+      "元気"
+    ],
+    "unlockSource": "support-event"
+  },
+  {
+    "effectText": "好調が4ターン以上の場合、使用可\nパラメータ+40(好調効果を2.5倍適用)",
+    "id": "g8-661609",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-661609.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "これまでもこれからも",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/661609",
+    "tags": [
+      "好調"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "集中+5\n最終ターンのターン終了時、パラメータ+15(集中効果を2.5倍適用)\n強化後\n集中+7\n最終ターンのターン終了時、パラメータ+15(集中効果を2.5倍適用)",
+    "id": "g8-661610",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-661610.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "嫌いな自分にバイバイ",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/661610",
+    "tags": [
+      "集中"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "好調1ターン\n手札を全て入れ替える\nスキルカード使用数追加+1\n強化後\n好調3ターン\n手札を全て入れ替える\nスキルカード使用数追加+1",
+    "id": "g8-661612",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-661612.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "練習再開！",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/661612",
+    "tags": [
+      "好調"
+    ],
+    "unlockSource": "support-event"
+  },
+  {
+    "effectText": "好調状態の場合、使用可\n好調の100％分のパラメータ上昇\n好調1ターン\nスキルカード使用回数+1\n強化後\n好調状態の場合、使用可\n好調の150％分のパラメータ上昇\n好調3ターン\nスキルカード使用回数+1",
+    "id": "g8-662580",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-662580.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "夢はまだ続く",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/662580",
+    "tags": [
+      "好調"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "パラメータ+7（集中効果を2倍適用）\n強化後\nパラメータ+17（集中効果を2倍適用）\nスキルカード使用回数追加+1",
+    "id": "g8-692621",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-692621.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "どんな世界でも",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/692621",
+    "tags": [
+      "集中"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "好調消費2ターン\n集中+3\n3ターン後、好調5ターン\n4ターン後、スキルカード使用数追加+1\n強化後\n好調消費2ターン\n集中+5\n3ターン後、好調7ターン\n4ターン後、スキルカード使用数追加+1",
+    "id": "g8-708548",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-708548.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "朝が満たすまで",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/708548",
+    "tags": [
+      "好調",
+      "集中"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "体力消費3\n以降、メンタルスキルカード使用時、集中+2\n強化後\n体力消費2\n集中+1\n以降、メンタルスキルカード使用時、集中+2",
+    "id": "g8-710314",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-710314.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "自己肯定感爆上げ↑↑",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/710314",
+    "tags": [
+      "集中"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "好調+3\n集中+2\nランダムな山札か捨札にあるスキルカード（SSR）3枚を山札の一番上に移動\n次のターン、スキルカード使用数追加+1\n強化後\nコストが体力-4に変更\n好調4ターン\n集中+3\nランダムな山札か捨札にあるスキルカード（SSR）3枚を山札の一番上に移動\n次のターン、スキルカード使用数追加+1",
+    "id": "g8-712455",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-712455.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "天賦の才",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/712455",
+    "tags": [
+      "好調",
+      "集中"
+    ],
+    "unlockLevel": 70,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "好調3ターン\n集中+5\nスキルカード使用数追加+1\n眠気を山札のランダムな位置に生成\n強化後\n元気+3\n好調3ターン\n集中+5\nスキルカード使用数追加+1\n眠気を山札のランダムな位置に生成",
+    "id": "g8-753499",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-753499.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "大胆不敵",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/753499",
+    "tags": [
+      "好調",
+      "集中",
+      "元気"
+    ],
+    "unlockLevel": 56,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "好調5ターン\nスキルカード使用数追加+1\nスキルカードを引く\n眠気を山札のランダムな位置に生成\n強化後\n好調7ターン\nスキルカード使用数追加+1\nスキルカードを引く\n眠気を山札のランダムな位置に生成",
+    "id": "g8-753498",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-753498.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "スリリング",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/753498",
+    "tags": [
+      "好調"
+    ],
+    "unlockLevel": 54,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "集中+7\nスキルカード使用数追加+1\nスキルカードを引く\n眠気を山札のランダムな位置に生成\n強化後\n元気+1\n集中+8\nスキルカード使用数追加+1\nスキルカードを引く\n眠気を山札のランダムな位置に生成",
+    "id": "g8-753497",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-753497.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "一発勝負",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/753497",
+    "tags": [
+      "集中",
+      "元気"
+    ],
+    "unlockLevel": 53,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "パラメータ+6\n好調2ターン\n除外以外にあるトラブルカードが2枚以上の場合、パラメータ+4\n強化後\n元気+1\n好調3ターン\n除外以外にあるトラブルカードが2枚以上の場合、パラメータ+4",
+    "id": "g8-753491",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-753491.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "パンプアップ",
+    "plan": "sense",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/753491",
+    "tags": [
+      "好調",
+      "元気"
+    ],
+    "unlockLevel": 52,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "パラメータ+6\n集中+2\n除外以外にあるトラブルカードが2枚以上の場合、パラメータ+3\n強化後\n元気+1\nパラメータ+6\n集中+3\n除外以外にあるトラブルカードが2枚以上の場合、パラメータ+3",
+    "id": "g8-753490",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-753490.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "軌道修正",
+    "plan": "sense",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/753490",
+    "tags": [
+      "集中",
+      "元気"
+    ],
+    "unlockLevel": 51,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "好調2ターン\n以降の3ターンの間、ターン終了時、パラメータ+4\n強化後\n好調2ターン\n以降の5ターンの間、ターン終了時、パラメータ+4",
+    "id": "g8-650080",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-650080.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "ちょちょいのちょい",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/650080",
+    "tags": [
+      "好調"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "以降、直接効果で集中が7以上増加後、パラメーター+12（集中効果を1.5倍適用）\n強化後\n体力-3",
+    "id": "g8-699137",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-699137.jpeg",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "もうためらわない",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/699137",
+    "tags": [
+      "集中"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "集中+2、好調2ターン\n強化後\n集中+2、好調3ターン",
+    "id": "g8-706449",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-706449.png",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "初めての神降臨",
+    "plan": "sense",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/706449",
+    "tags": [
+      "好調",
+      "集中"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "パラメータ+3\n集中+3\n好調+3ターン\n強化後\nパラメータ+5\n集中+4\n好調+4ターン",
+    "id": "g8-712459",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-712459.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "ペース配分",
+    "plan": "sense",
+    "rarity": "R",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/712459",
+    "tags": [
+      "好調",
+      "集中"
+    ],
+    "unlockLevel": 67,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "集中+5\n以降の3ターンの間、ターン開始時、パラメータ+5\n強化後\n集中+7\n以降の4ターンの間、ターン開始時、パラメータ+5",
+    "id": "g8-712456",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-712456.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "破竹の勢い",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/712456",
+    "tags": [
+      "集中",
+      "開始時"
+    ],
+    "unlockLevel": 69,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "好調3ターン、絶好調2ターン、絶好調が5ターン以上の場合、好調の350%分パラメーター上昇\n強化後\n好調3ターン、絶好調2ターン、絶好調が5ターン以上の場合、好調の350%分パラメータ上昇",
+    "id": "g8-723660",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-723660.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "かましちゃえ♪",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/723660",
+    "tags": [
+      "好調",
+      "絶好調"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "元気-3、好調の1100%分パラメーター上昇させ、好調を0にする\n強化後\n好調の1100%分パラメーター上昇させ、好調を0にする",
+    "id": "g8-732178",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-732178.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "世界一の勇気",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/732178",
+    "tags": [
+      "好調",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "3ターン目以降の場合、使用可、集中増加量増加+50%(3ターン)好調状態の場合、次のターン、集中+4",
+    "id": "g8-732466",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-732466.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "ほぐれるひととき",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/732466",
+    "tags": [
+      "好調",
+      "集中"
+    ],
+    "unlockSource": "support-event"
+  },
+  {
+    "effectText": "元気-4、好調の100%分集中増加\n強化後\n元気-1、好調の100%分集中増加",
+    "id": "g8-735250",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-735250.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "見つけた世界で",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/735250",
+    "tags": [
+      "好調",
+      "集中",
+      "元気"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "パラメータ+4\n集中が15以上の場合、次のターンパラメータ+4（好調効果を2倍適用）\n好調が12ターン以上の場合、2ターン後、パラメータ+4（集中効果を2倍適用）",
+    "id": "g8-735249",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-735249.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": false,
+    "name": "奥義、受け流し！",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/735249",
+    "tags": [
+      "好調",
+      "集中"
+    ],
+    "unlockSource": "support-event"
+  },
+  {
+    "effectText": "レッスン開始時手札に入る\nパラメーター上昇量増加10%\n最終ターンのターン終了時、パラメーター+30(好調効果を2倍適用)\n強化後\nレッスン開始時手札に入る\nパラメーター上昇量増加10%\n最終ターンのターン終了時、パラメーター+50(好調効果を2倍適用)",
+    "id": "g8-751065",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-751065.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "ダークヒーローの誕生",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/751065",
+    "tags": [
+      "好調",
+      "開始時"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "好調消費2ターン、集中+2、集中が10以上の場合、パラメータ+40（集中効果を5倍適用）\n強化後\n好調消費2ターン、集中+2、集中が10以上の場合、パラメータ+67（集中効果を5.5倍適用）",
+    "id": "g8-758545",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-758545.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "どきどきはそのまま",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/758545",
+    "tags": [
+      "好調",
+      "集中"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "元気+6、集中+5、以降の3ターンの間ターン開始後スキルカードを引く、好調が15ターン以下の場合集中強化20%（3ターン）\n強化後\n元気+8、集中+6、以降の3ターンの間ターン開始後スキルカードを引く、好調が15ターン以下の場合集中強化20%（3ターン）",
+    "id": "g8-758615",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-758615.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "精神統一",
+    "plan": "sense",
+    "rarity": "SR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/758615",
+    "tags": [
+      "好調",
+      "集中",
+      "元気"
+    ],
+    "unlockLevel": 74,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "好調消費-2、集中+7、スキルカード使用数追加+1、以降好調が20ターン以下の場合スキルカード使用後2回ごとにパラメータ+5（集中効果を3倍適用）・好調減少3\n強化後\n好調消費-2、集中+7、スキルカード使用数追加+1、以降好調が20ターン以下の場合スキルカード使用後2回ごとにパラメータ+6（集中効果を4倍適用）・好調減少3",
+    "id": "g8-763280",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-763280.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "脚光",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/763280",
+    "tags": [
+      "好調",
+      "集中"
+    ],
+    "unlockLevel": 75,
+    "unlockSource": "produce-level"
+  },
+  {
+    "effectText": "集中+1、スキルカード使用数追加+1、除外にあるカードが4枚以上の場合、パラメータ+5\n強化後\n集中+3、スキルカード使用数追加+1、除外にあるカードが4枚以上の場合、パラメータ+5",
+    "id": "g8-764293",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-764293.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": false,
+    "isUnique": true,
+    "name": "狂い咲け！",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/764293",
+    "tags": [
+      "集中"
+    ],
+    "unlockSource": "idol-unique"
+  },
+  {
+    "effectText": "好調が8ターン以上の場合、使用可、パラメータ+37（好調効果を2倍適用）パラメータ上昇量増加30%（1ターン）\n強化後\n好調が8ターン以上の場合、使用可、パラメータ+50（好調効果を2.5倍適用）パラメータ上昇量増加30%（1ターン）",
+    "id": "g8-768598",
+    "imageSet": {
+      "defaultImagePath": "assets/cards/g8-768598.webp",
+      "idolVariants": []
+    },
+    "isMemoryEligible": true,
+    "isUnique": false,
+    "name": "話題沸騰",
+    "plan": "sense",
+    "rarity": "SSR",
+    "sourceUrl": "https://game8.jp/gakuen-idolmaster/768598",
+    "tags": [
+      "好調"
+    ],
+    "unlockLevel": 78,
+    "unlockSource": "produce-level"
+  }
+]

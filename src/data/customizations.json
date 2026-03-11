@@ -1,0 +1,6818 @@
+[
+  {
+    "cardId": "g8-609843",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "パラメータ+15",
+            "tierKey": "1"
+          },
+          {
+            "label": "パラメータ+21",
+            "tierKey": "2"
+          },
+          {
+            "label": "パラメータ+39",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "好調",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好調4ターン",
+            "tierKey": "1"
+          },
+          {
+            "label": "好調5ターン",
+            "tierKey": "2"
+          },
+          {
+            "label": "好調7ターン",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "集中",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "集中+2",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609844",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "好調",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好調2ターン",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "集中",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "集中+2",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "パラメータ",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "パラメータ+27",
+            "tierKey": "1"
+          },
+          {
+            "label": "パラメータ+33",
+            "tierKey": "2"
+          },
+          {
+            "label": "パラメータ+51",
+            "tierKey": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609845",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "集中",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "集中+4",
+            "tierKey": "1"
+          },
+          {
+            "label": "集中+5",
+            "tierKey": "2"
+          },
+          {
+            "label": "集中+7",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "パラメータ上昇回数",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "パラメータ+9(2回)",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "パラメータ",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "パラメータ+12",
+            "tierKey": "1"
+          },
+          {
+            "label": "パラメータ+15",
+            "tierKey": "2"
+          },
+          {
+            "label": "パラメータ+24",
+            "tierKey": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609847",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "集中",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好調状態の場合、集中+5",
+            "tierKey": "1"
+          },
+          {
+            "label": "好調状態の場合、集中+6",
+            "tierKey": "2"
+          },
+          {
+            "label": "好調状態の場合、集中+8",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "パラメータ上昇回数",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "パラメータ+9(2回)",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "パラメータ",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "パラメータ+12",
+            "tierKey": "1"
+          },
+          {
+            "label": "パラメータ+15",
+            "tierKey": "2"
+          },
+          {
+            "label": "パラメータ+24",
+            "tierKey": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609846",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "好調",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好調2ターン",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "絶好調",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "絶好調2ターン",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "パラメータ",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "パラメータ+22",
+            "tierKey": "1"
+          },
+          {
+            "label": "パラメータ+28",
+            "tierKey": "2"
+          },
+          {
+            "label": "パラメータ+46",
+            "tierKey": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609848",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "パラメータ+29",
+            "tierKey": "1"
+          },
+          {
+            "label": "パラメータ+35",
+            "tierKey": "2"
+          },
+          {
+            "label": "パラメータ+53",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "使用コスト",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "-2",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "元気+9",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609849",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "パラメータ+44",
+            "tierKey": "1"
+          },
+          {
+            "label": "パラメータ+50",
+            "tierKey": "2"
+          },
+          {
+            "label": "パラメータ+68",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "使用コスト",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "-4",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "集中",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "集中+2",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609857",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "集中",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "集中+5",
+            "tierKey": "1"
+          },
+          {
+            "label": "集中+6",
+            "tierKey": "2"
+          },
+          {
+            "label": "集中+8",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "元気+5",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気+9",
+            "tierKey": "2"
+          },
+          {
+            "label": "元気+18",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "好調",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "好調2ターン",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609858",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "集中",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好調状態の場合、集中+2",
+            "tierKey": "1"
+          },
+          {
+            "label": "好調状態の場合、集中+3",
+            "tierKey": "2"
+          },
+          {
+            "label": "好調状態の場合、集中+5",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "好調",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好調5ターン",
+            "tierKey": "1"
+          },
+          {
+            "label": "好調6ターン",
+            "tierKey": "2"
+          },
+          {
+            "label": "好調8ターン",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "パラメータ",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "パラメータ+6",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609859",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "パラメータ+6",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "集中",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "集中+4",
+            "tierKey": "1"
+          },
+          {
+            "label": "集中+5",
+            "tierKey": "2"
+          },
+          {
+            "label": "集中+7",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "好調",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "集中が3以上の場合、好調4ターン",
+            "tierKey": "1"
+          },
+          {
+            "label": "集中が3以上の場合、好調5ターン",
+            "tierKey": "2"
+          },
+          {
+            "label": "集中が3以上の場合、好調7ターン",
+            "tierKey": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-624993",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "使用コスト",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "-5",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "元気+9",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "集中",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "集中+6",
+            "tierKey": "1"
+          },
+          {
+            "label": "集中+7",
+            "tierKey": "2"
+          },
+          {
+            "label": "集中+9",
+            "tierKey": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654119",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "絶好調",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "絶好調5ターン",
+            "tierKey": "1"
+          },
+          {
+            "label": "絶好調6ターン",
+            "tierKey": "2"
+          },
+          {
+            "label": "絶好調8ターン",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "パラメータ",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "パラメータ+16",
+            "tierKey": "1"
+          },
+          {
+            "label": "パラメータ+22",
+            "tierKey": "2"
+          },
+          {
+            "label": "パラメータ+40",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "好調",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "好調2ターン",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609877",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "パラメータ+33",
+            "tierKey": "1"
+          },
+          {
+            "label": "パラメータ+49",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "好調",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好調2ターン",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "使用コスト",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "-1",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609878",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "パラメータ+15",
+            "tierKey": "1"
+          },
+          {
+            "label": "パラメータ+31",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "好調",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好調5ターン",
+            "tierKey": "1"
+          },
+          {
+            "label": "好調7ターン",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "集中",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "集中+2",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609879",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "パラメータ上昇回数",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "パラメータ+18(2回)",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "集中",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "集中+5",
+            "tierKey": "1"
+          },
+          {
+            "label": "集中+7",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "使用コスト",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "-4",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609880",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "パラメータ+16\n集中が6以上の場合、パラメータ+18",
+            "tierKey": "1"
+          },
+          {
+            "label": "パラメータ+24\n集中が6以上の場合、パラメータ+26",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "好調",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好調2ターン",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "レッスン中1回の制限削除",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "レッスン中1回",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609881",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "パラメータ+46",
+            "tierKey": "1"
+          },
+          {
+            "label": "パラメータ+62",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "好調",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好調2ターン",
+            "tierKey": "1"
+          },
+          {
+            "label": "好調4ターン",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "絶好調",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "絶好調2ターン",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609882",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "パラメータ+46",
+            "tierKey": "1"
+          },
+          {
+            "label": "パラメータ+62",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "使用コスト",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "-3",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好調",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "好調2ターン",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609883",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "元気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "元気+11",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気+20",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "使用コスト",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "-3",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "集中",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "集中+8",
+            "tierKey": "1"
+          },
+          {
+            "label": "集中+10",
+            "tierKey": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609884",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "集中コスト",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "集中消費1",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "スキルカード強化",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "手札をすべてレッスン中強化",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-624988",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "パラメータ+43",
+            "tierKey": "1"
+          },
+          {
+            "label": "パラメータ+51",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "パラメータ上昇回数",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "パラメータ+40(2回)",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "元気+19",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気+28",
+            "tierKey": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609892",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "パラメータ+6",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "元気+12",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気+21",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "集中",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "集中+5",
+            "tierKey": "1"
+          },
+          {
+            "label": "集中+7",
+            "tierKey": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609893",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "パラメータ+6",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好調",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好調5ターン",
+            "tierKey": "1"
+          },
+          {
+            "label": "好調7ターン",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "元気+12",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気+21",
+            "tierKey": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609894",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "パラメータ+6",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "絶好調",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "絶好調5ターン",
+            "tierKey": "1"
+          },
+          {
+            "label": "絶好調7ターン",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "元気+9",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609895",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "パラメータ+6",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "集中",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "集中+4",
+            "tierKey": "1"
+          },
+          {
+            "label": "集中+6",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "使用コスト",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "-1",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609896",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "元気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "元気+9",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好調",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好調4ターン",
+            "tierKey": "1"
+          },
+          {
+            "label": "好調6ターン",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "集中",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "集中+5",
+            "tierKey": "1"
+          },
+          {
+            "label": "集中+7",
+            "tierKey": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609897",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "使用コスト",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "-1",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好調",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好調8ターン",
+            "tierKey": "1"
+          },
+          {
+            "label": "好調10ターン",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "パラメータ",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "パラメータ+6",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609898",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "パラメータ+6",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "集中",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "集中+6",
+            "tierKey": "1"
+          },
+          {
+            "label": "集中+8",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "元気+9",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気+18",
+            "tierKey": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609899",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "好調コスト",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好調消費0",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "スキルカード強化",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "手札をすべてレッスン中強化",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609900",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "集中",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "集中+10",
+            "tierKey": "1"
+          },
+          {
+            "label": "集中+12",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "パラメータ",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "パラメータ+12",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好調コスト",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "好調消費0",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-624991",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "パラメータ+6",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好調",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好調7ターン",
+            "tierKey": "1"
+          },
+          {
+            "label": "好調9ターン",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "元気+13",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気+22",
+            "tierKey": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609926",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "パラメータ+21\n集中が3以上の場合、パラメータ+40(集中効果を1.5倍適用)",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好調",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好調2ターン",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609927",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "パラメータ+66",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "集中",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "集中+2",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609928",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "好調",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好調9ターン",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "使用コスト",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "-8",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609929",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "絶好調",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "絶好調6ターン",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "使用コスト",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "-5",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-624990",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "集中コスト",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "集中消費1",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "元気+9",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-624986",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "パラメータ+10(2回)",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "元気+9",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609937",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "元気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "元気+17",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "パラメータ",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "パラメータ+6",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609938",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "集中コスト",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "集中消費2",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "元気+9",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609939",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "集中",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "集中+7",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好調",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好調5ターン",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609940",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "使用コスト",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "-1",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "集中",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "集中+3",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609850",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "好印象",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好印象+5",
+            "tierKey": "1"
+          },
+          {
+            "label": "好印象+6",
+            "tierKey": "2"
+          },
+          {
+            "label": "好印象+9",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "好印象分パラメータ",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好印象の60%分のパラメータ上昇",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "パラメータ",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "パラメータ+15",
+            "tierKey": "1"
+          },
+          {
+            "label": "パラメータ+21",
+            "tierKey": "2"
+          },
+          {
+            "label": "パラメータ+39",
+            "tierKey": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609851",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "元気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "元気+4",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "やる気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "やる気+5",
+            "tierKey": "1"
+          },
+          {
+            "label": "やる気+6",
+            "tierKey": "2"
+          },
+          {
+            "label": "やる気+9",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "元気分パラメータ",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "元気の100%分パラメータ上昇",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気の120%分パラメータ上昇",
+            "tierKey": "2"
+          },
+          {
+            "label": "元気の160%分パラメータ上昇",
+            "tierKey": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609852",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "やる気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "やる気+5",
+            "tierKey": "1"
+          },
+          {
+            "label": "やる気+6",
+            "tierKey": "2"
+          },
+          {
+            "label": "やる気+9",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "パラメータ",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "パラメータ+21",
+            "tierKey": "1"
+          },
+          {
+            "label": "パラメータ+27",
+            "tierKey": "2"
+          },
+          {
+            "label": "パラメータ+45",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "元気+4",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609853",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "好印象分パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好印象の235%分パラメータ上昇",
+            "tierKey": "1"
+          },
+          {
+            "label": "好印象の270%分パラメータ上昇",
+            "tierKey": "2"
+          },
+          {
+            "label": "好印象の350%分パラメータ上昇",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "使用コスト",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "-3",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好印象",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "好印象+2",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609854",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "元気分パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "元気の140%分パラメータ上昇",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気の160%分パラメータ上昇",
+            "tierKey": "2"
+          },
+          {
+            "label": "元気の200%分パラメータ上昇",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "やる気分パラメータ",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "やる気の110%分のパラメータ上昇",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "体力消費",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "体力消費2",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609860",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "元気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "元気+6",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気+10",
+            "tierKey": "2"
+          },
+          {
+            "label": "元気+19",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "好印象",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好印象+5",
+            "tierKey": "1"
+          },
+          {
+            "label": "好印象+6",
+            "tierKey": "2"
+          },
+          {
+            "label": "好印象+9",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "好印象分パラメータ",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "好印象の60%分のパラメータ上昇",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609861",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "元気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "元気+6",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気+10",
+            "tierKey": "2"
+          },
+          {
+            "label": "元気+19",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "やる気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "やる気+5",
+            "tierKey": "1"
+          },
+          {
+            "label": "やる気+6",
+            "tierKey": "2"
+          },
+          {
+            "label": "やる気+9",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "やる気分パラメータ",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "やる気の110%分のパラメータ上昇",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609863",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "やる気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "やる気+2",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好印象",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好印象+2",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "元気+12",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気+16",
+            "tierKey": "2"
+          },
+          {
+            "label": "元気+25",
+            "tierKey": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609864",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "好印象",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好印象+5",
+            "tierKey": "1"
+          },
+          {
+            "label": "好印象+6",
+            "tierKey": "2"
+          },
+          {
+            "label": "好印象+9",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "やる気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好印象が3以上の場合、やる気+4",
+            "tierKey": "1"
+          },
+          {
+            "label": "好印象が3以上の場合、やる気+5",
+            "tierKey": "2"
+          },
+          {
+            "label": "好印象が3以上の場合、やる気+8",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "好印象分パラメータ",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "好印象の60%分のパラメータ上昇",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609865",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "元気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "元気+11",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気+15",
+            "tierKey": "2"
+          },
+          {
+            "label": "元気+24",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "好印象",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "やる気が3以上の場合、好印象+5",
+            "tierKey": "1"
+          },
+          {
+            "label": "やる気が3以上の場合、好印象+6",
+            "tierKey": "2"
+          },
+          {
+            "label": "やる気が3以上の場合、好印象+9",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "元気分パラメータ",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "元気の30%分のパラメータ上昇",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609866",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "やる気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "やる気+5",
+            "tierKey": "1"
+          },
+          {
+            "label": "やる気+6",
+            "tierKey": "2"
+          },
+          {
+            "label": "やる気+9",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "元気+4",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好印象",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "やる気が6以上の場合、好印象+6",
+            "tierKey": "1"
+          },
+          {
+            "label": "やる気が6以上の場合、好印象+7",
+            "tierKey": "2"
+          },
+          {
+            "label": "やる気が6以上の場合、好印象+10",
+            "tierKey": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-624994",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "好印象",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好印象+10",
+            "tierKey": "1"
+          },
+          {
+            "label": "好印象+11",
+            "tierKey": "2"
+          },
+          {
+            "label": "好印象+14",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "好印象分パラメータ",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好印象の60%分のパラメータ上昇",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "使用コスト",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "-6",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609885",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "好印象",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好印象+6",
+            "tierKey": "1"
+          },
+          {
+            "label": "好印象+9",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "好印象分パラメータ",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好印象の115%分パラメータ上昇",
+            "tierKey": "1"
+          },
+          {
+            "label": "好印象の195%分パラメータ上昇",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "使用コスト",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "-3",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609886",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "元気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "元気+15",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気+24",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "元気分パラメータ",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "元気の90%分パラメータ上昇",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気の130%分パラメータ上昇",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "やる気分パラメータ",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "やる気の110%分のパラメータ上昇",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609887",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "元気分パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "元気の210%分パラメータ上昇",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気の270%分パラメータ上昇",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "体力消費",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "体力消費2",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "やる気分パラメータ",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "やる気の110%分のパラメータ上昇",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609888",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "元気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "元気+9",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気+18",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "好印象",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好印象+2",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好印象分パラメータ",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "好印象の285%分パラメータ上昇",
+            "tierKey": "1"
+          },
+          {
+            "label": "好印象の365%分パラメータ上昇",
+            "tierKey": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609889",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "好印象分パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好印象の200%分パラメータ上昇",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "やる気コスト",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "やる気消費1",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654118",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "やる気コスト",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "やる気消費1",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "元気分パラメータ",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "元気の130%分パラメータ上昇",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気の170%分パラメータ上昇",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "好印象",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "好印象+2",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609901",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "元気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "元気+8",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気+17",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "やる気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "やる気+6",
+            "tierKey": "1"
+          },
+          {
+            "label": "やる気+9",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "やる気分パラメータ",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "やる気の110%分のパラメータ上昇",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609902",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "好印象",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好印象+6",
+            "tierKey": "1"
+          },
+          {
+            "label": "好印象+9",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "好印象分パラメータ",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好印象の60%分のパラメータ上昇",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "元気+10",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気+19",
+            "tierKey": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609903",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "好印象",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好印象+9",
+            "tierKey": "1"
+          },
+          {
+            "label": "好印象+12",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "好印象分パラメータ",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好印象の60%分のパラメータ上昇",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "使用コスト",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "-3",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609904",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "開始時手札",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "レッスン開始時手札に入る",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "使用コスト",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "-2",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好印象",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "好印象+6",
+            "tierKey": "1"
+          },
+          {
+            "label": "好印象+9",
+            "tierKey": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609905",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "開始時手札",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "レッスン開始時手札に入る",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "使用コスト",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "-1",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "やる気",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "やる気+6",
+            "tierKey": "1"
+          },
+          {
+            "label": "やる気+9",
+            "tierKey": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609906",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "使用コスト",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "-3",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "やる気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "やる気+5",
+            "tierKey": "1"
+          },
+          {
+            "label": "やる気+8",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "好印象",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "好印象+6",
+            "tierKey": "1"
+          },
+          {
+            "label": "好印象+9",
+            "tierKey": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609907",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "元気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "元気+15",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気+24",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "やる気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "やる気+8",
+            "tierKey": "1"
+          },
+          {
+            "label": "やる気+11",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "元気分パラメータ",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "元気の30%分のパラメータ上昇",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609908",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "元気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "元気+15",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気+24",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "やる気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "やる気+6",
+            "tierKey": "1"
+          },
+          {
+            "label": "やる気+9",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "元気分パラメータ",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "元気の30%分のパラメータ上昇",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609909",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "元気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "元気+6",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気+15",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "好印象",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好印象+6",
+            "tierKey": "1"
+          },
+          {
+            "label": "好印象+9",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "やる気",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "やる気+2",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609910",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "好印象コスト",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好印象消費0",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "元気分パラメータ",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "元気の30%分のパラメータ上昇",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-624992",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "やる気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "やる気+7",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好印象",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好印象+8",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-624987",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "やる気コスト",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "やる気消費2",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好印象",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好印象+7\n好印象が10以上の場合、好印象+4",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609931",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "元気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "元気+4",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "やる気分パラメータ",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "やる気の440%分パラメータ上昇",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609932",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "元気分パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "元気の320%分パラメータ上昇",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "体力消費",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "体力消費1",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-624989",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "持続効果",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "以降、スキルカード使用時、\n好印象の50%分パラメータ上昇・好印象+1",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "やる気コスト",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "やる気消費3",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-624985",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "やる気分パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "やる気の340%分パラメータ上昇",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好印象コスト",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好印象消費3",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609941",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "好印象コスト",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好印象消費0",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "スキルカード強化",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "手札をすべてレッスン中強化",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609942",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "好印象",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好印象+10",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好印象分パラメータ",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好印象の60%分のパラメータ上昇",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609943",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "元気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "元気+4",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好印象分パラメータ",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好印象の60%分のパラメータ上昇",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609944",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "元気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "元気+14\n元気+14",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好印象コスト",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好印象消費0",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609945",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "やる気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "やる気+9",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好印象",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好印象+13",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609946",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "使用コスト",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "-7",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好印象",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好印象+7",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654117",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "好印象分パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好印象の500%分パラメータ上昇",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "体力消費",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "体力消費4",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654098",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "パラメータ+21",
+            "tierKey": "1"
+          },
+          {
+            "label": "パラメータ+27",
+            "tierKey": "2"
+          },
+          {
+            "label": "パラメータ+45",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "全力値",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "全力値+4",
+            "tierKey": "1"
+          },
+          {
+            "label": "全力値+5",
+            "tierKey": "2"
+          },
+          {
+            "label": "全力値+7",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "成長",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "保留にあるスキルカードの\nパラメータ値増加+3",
+            "tierKey": "1"
+          },
+          {
+            "label": "保留にあるスキルカードの\nパラメータ値増加+6",
+            "tierKey": "2"
+          },
+          {
+            "label": "保留にあるスキルカードの\nパラメータ値増加+11",
+            "tierKey": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654097",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "使用コスト",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "-4",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "パラメータ",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "パラメータ+24",
+            "tierKey": "1"
+          },
+          {
+            "label": "パラメータ+30",
+            "tierKey": "2"
+          },
+          {
+            "label": "パラメータ+48",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "成長",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "すべてのスキルカードの\nパラメータ値増加+1",
+            "tierKey": "1"
+          },
+          {
+            "label": "すべてのスキルカードの\nパラメータ値増加+2",
+            "tierKey": "2"
+          },
+          {
+            "label": "すべてのスキルカードの\nパラメータ値増加+5",
+            "tierKey": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654096",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "全力値",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "全力値+2",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "成長",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "すべてのスキルカードの\nパラメータ値増加+1",
+            "tierKey": "1"
+          },
+          {
+            "label": "すべてのスキルカードの\nパラメータ値増加+2",
+            "tierKey": "2"
+          },
+          {
+            "label": "すべてのスキルカードの\nパラメータ値増加+5",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "パラメータ",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "パラメータ+29",
+            "tierKey": "1"
+          },
+          {
+            "label": "パラメータ+35",
+            "tierKey": "2"
+          },
+          {
+            "label": "パラメータ+53",
+            "tierKey": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654095",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "パラメータ+16",
+            "tierKey": "1"
+          },
+          {
+            "label": "パラメータ+22",
+            "tierKey": "2"
+          },
+          {
+            "label": "パラメータ+40",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "成長",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "保留にあるスキルカードの\nパラメータ値増加+3",
+            "tierKey": "1"
+          },
+          {
+            "label": "保留にあるスキルカードの\nパラメータ値増加+6",
+            "tierKey": "2"
+          },
+          {
+            "label": "保留にあるスキルカードの\nパラメータ値増加+11",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "全力値",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "強気の場合、全力値+5",
+            "tierKey": "1"
+          },
+          {
+            "label": "強気の場合、全力値+6",
+            "tierKey": "2"
+          },
+          {
+            "label": "強気の場合、全力値+8",
+            "tierKey": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654094",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "パラメータ上昇回数",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "全力の場合、パラメータ+35(2回)",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "成長",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "手札のパラメータ値増加+3",
+            "tierKey": "1"
+          },
+          {
+            "label": "手札のパラメータ値増加+6",
+            "tierKey": "2"
+          },
+          {
+            "label": "手札のパラメータ値増加+11",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "使用コスト",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "0",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654093",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "パラメータ+10(2回)",
+            "tierKey": "1"
+          },
+          {
+            "label": "パラメータ+13(2回)",
+            "tierKey": "2"
+          },
+          {
+            "label": "パラメータ+22(2回)",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "全力値",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "全力値+2",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "使用コスト",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "-2",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654092",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "成長",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "保留にあるスキルカードの\nパラメータ値増加+3",
+            "tierKey": "1"
+          },
+          {
+            "label": "保留にあるスキルカードの\nパラメータ値増加+6",
+            "tierKey": "2"
+          },
+          {
+            "label": "保留にあるスキルカードの\nパラメータ値増加+11",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "元気+14",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気+18",
+            "tierKey": "2"
+          },
+          {
+            "label": "元気+27",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "使用コスト",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "0",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654091",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "元気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "元気+10",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気+14",
+            "tierKey": "2"
+          },
+          {
+            "label": "元気+23",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "全力値",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "全力値+4",
+            "tierKey": "1"
+          },
+          {
+            "label": "全力値+5",
+            "tierKey": "2"
+          },
+          {
+            "label": "全力値+7",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "保留",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "山札にあるスキルカードを選択し、\n保留に移動",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654090",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "全力値",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "強気の場合、全力値+5",
+            "tierKey": "1"
+          },
+          {
+            "label": "強気の場合、全力値+6",
+            "tierKey": "2"
+          },
+          {
+            "label": "強気の場合、全力値+8",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "成長",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "保留にあるスキルカードの\nパラメータ値増加+3",
+            "tierKey": "1"
+          },
+          {
+            "label": "保留にあるスキルカードの\nパラメータ値増加+6",
+            "tierKey": "2"
+          },
+          {
+            "label": "保留にあるスキルカードの\nパラメータ値増加+11",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "元気+8",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気+12",
+            "tierKey": "2"
+          },
+          {
+            "label": "元気+21",
+            "tierKey": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654089",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "強気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "強気2段階目に変更",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "パラメータ",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "パラメータ+28",
+            "tierKey": "1"
+          },
+          {
+            "label": "パラメータ+44",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "成長",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "すべてのスキルカードの\nパラメータ値増加+1",
+            "tierKey": "1"
+          },
+          {
+            "label": "すべてのスキルカードの\nパラメータ値増加+4",
+            "tierKey": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654088",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "成長",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "保留にあるスキルカードの\nパラメータ値増加+3",
+            "tierKey": "1"
+          },
+          {
+            "label": "保留にあるスキルカードの\nパラメータ値増加+8",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "使用コスト",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "-2",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "パラメータ",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "パラメータ+18",
+            "tierKey": "1"
+          },
+          {
+            "label": "パラメータ+34",
+            "tierKey": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654087",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "温存",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "次のターン、温存に変更",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "パラメータ",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "パラメータ+13（2回）",
+            "tierKey": "1"
+          },
+          {
+            "label": "パラメータ+21（2回）",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "成長",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "すべてのスキルカードの\nパラメータ値増加+1",
+            "tierKey": "1"
+          },
+          {
+            "label": "すべてのスキルカードの\nパラメータ値増加+4",
+            "tierKey": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654086",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "温存",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "次のターン、温存に変更",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "パラメータ",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "パラメータ+53",
+            "tierKey": "1"
+          },
+          {
+            "label": "パラメータ+69",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "成長",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "手札のパラメータ値増加+3",
+            "tierKey": "1"
+          },
+          {
+            "label": "手札のパラメータ値増加+8",
+            "tierKey": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654085",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "強気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "強気2段階目に変更",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "パラメータ",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "パラメータ+20",
+            "tierKey": "1"
+          },
+          {
+            "label": "パラメータ+36",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "成長",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "強気になった時、\nこのスキルカードのパラメータ値増加+2",
+            "tierKey": "1"
+          },
+          {
+            "label": "強気になった時、\nこのスキルカードのパラメータ値増加+5",
+            "tierKey": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654084",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "パラメータ+14",
+            "tierKey": "1"
+          },
+          {
+            "label": "パラメータ+30",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "消費体力減少",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "消費体力減少3ターン",
+            "tierKey": "1"
+          },
+          {
+            "label": "消費体力減少5ターン",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "強気",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "強気2段階目に変更",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654083",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "使用コスト",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "-3",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "パラメータ",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "パラメータ+9（2回）",
+            "tierKey": "1"
+          },
+          {
+            "label": "パラメータ+17（2回）",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "元気+9",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654082",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "パラメータ+16",
+            "tierKey": "1"
+          },
+          {
+            "label": "パラメータ+32",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "成長",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "手札のパラメータ値増加+3",
+            "tierKey": "1"
+          },
+          {
+            "label": "手札のパラメータ値増加+8",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "使用コスト",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "-3",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654081",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "元気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "元気+19",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気+28",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "レッスン中1回の制限削除",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "レッスン中1回",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "成長",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "保留にあるスキルカードの\nパラメータ値増加+3",
+            "tierKey": "1"
+          },
+          {
+            "label": "保留にあるスキルカードの\nパラメータ値増加+8",
+            "tierKey": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654080",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "元気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "元気+17",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気+26",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "成長",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "保留にあるスキルカードの\nパラメータ値増加+3",
+            "tierKey": "1"
+          },
+          {
+            "label": "保留にあるスキルカードの\nパラメータ値増加+8",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "温存",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "温存2段階目に変更",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654079",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "使用コスト",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "-2",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "成長",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "すべてのスキルカードの\nパラメータ値増加+1",
+            "tierKey": "1"
+          },
+          {
+            "label": "すべてのスキルカードの\nパラメータ値増加+4",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "全力値",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "全力値+4",
+            "tierKey": "1"
+          },
+          {
+            "label": "全力値+6",
+            "tierKey": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654078",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "成長",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "保留にあるスキルカードの\nパラメータ値増加+3",
+            "tierKey": "1"
+          },
+          {
+            "label": "保留にあるスキルカードの\nパラメータ値増加+8",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "元気+9",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気+18",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "使用コスト",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "0",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654077",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "成長",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "保留にあるスキルカードの\nパラメータ値増加+5",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "成長",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "手札のパラメータ値増加+5",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654076",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "温存",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "次のターン、温存に変更",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "パラメータ上昇回数",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "パラメータ+10\n（このレッスン中に増加した全力値の150%分、パラメータ効果量増加）(2回)",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654075",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "使用コスト",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "-5",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "パラメータ",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "パラメータ+22",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654074",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "パラメータ+28",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "使用コスト",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "-6",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654073",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "成長",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "全力になった時、\nこのスキルカードのパラメータ値増加+3",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "レッスン中1回の制限削除",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "レッスン中1回",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654072",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "パラメータ+25(2回)",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "使用コスト",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "-8",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654071",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "使用コスト",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "-6",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "元気+9",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654070",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "全力値消費",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "全力値消費2",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "元気+13",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654069",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "使用コスト",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "-7",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "パラメータ",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "パラメータ+6",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654068",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "成長",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "保留にあるスキルカードの\nパラメータ値増加+5",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "体力消費",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "体力消費2",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-613076",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "好調",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好調5ターン",
+            "tierKey": "1"
+          },
+          {
+            "label": "好調7ターン",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "集中",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "集中+4",
+            "tierKey": "1"
+          },
+          {
+            "label": "集中+6",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "パラメータ",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "パラメータ+6",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-630608",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "好調",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好調6ターン",
+            "tierKey": "1"
+          },
+          {
+            "label": "好調8ターン",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "使用コスト",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "-1",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "パラメータ",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "パラメータ+6",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-610600",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "元気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "元気+6",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気+15",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "レッスン中1回の制限削除",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "レッスン中1回",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "元気分パラメータ",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "元気の30%分のパラメータ上昇",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-667280",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "全力値",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "全力値+4",
+            "tierKey": "1"
+          },
+          {
+            "label": "全力値+6",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "温存",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "温存に変更",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "消費体力減少",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "消費体力減少2ターン",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609962",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "好調",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好調6ターン",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "集中",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "集中+6",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-624933",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "パラメータ+57",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好調",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好調2ターン",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-630609",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "集中",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "集中+7",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好調",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好調2ターン",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-655577",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "絶好調",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "絶好調5ターン",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好調",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好調2ターン",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-661612",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "使用コスト",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "-1",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好調",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好調5ターン",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609963",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "やる気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好印象+8",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好印象",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "やる気+7",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-615887",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "スキルカード使用数",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "スキルカード使用数追加+1",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好印象",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好印象+9",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-637450",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "元気分パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "やる気が3以上の場合、\n元気の110％分パラメータ上昇",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好印象分パラメータ",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好印象が3以上の場合、\n好印象の230％分パラメータ上昇",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-651650",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "やる気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "やる気+8",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好印象",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好印象+7",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-654030",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "パラメータ+6",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "成長",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "すべてのスキルカードの\nパラメータ値増加+3",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-667279",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "体力消費",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "体力消費1",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "元気+17",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-753490",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "好調",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好調2ターン",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "集中",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "集中+4",
+            "tierKey": "1"
+          },
+          {
+            "label": "集中+5",
+            "tierKey": "2"
+          },
+          {
+            "label": "集中+7",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "元気+9",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-753491",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "集中",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "集中+2",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好調",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好調4ターン",
+            "tierKey": "1"
+          },
+          {
+            "label": "好調5ターン",
+            "tierKey": "2"
+          },
+          {
+            "label": "好調7ターン",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "元気+9",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-712459",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "集中",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "集中+5",
+            "tierKey": "1"
+          },
+          {
+            "label": "集中+6",
+            "tierKey": "2"
+          },
+          {
+            "label": "集中+8",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "好調",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好調5ターン",
+            "tierKey": "1"
+          },
+          {
+            "label": "好調6ターン",
+            "tierKey": "2"
+          },
+          {
+            "label": "好調8ターン",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "元気+9",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-712456",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "条件変更",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好調が4ターン以上の場合、使用可",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "集中",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "集中+8",
+            "tierKey": "1"
+          },
+          {
+            "label": "集中+10",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "好調",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "好調2ターン",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-753497",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "集中",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "集中+10",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "パラメータ",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "パラメータ+6",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-753498",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "好調",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好調9ターン",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "パラメータ",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "パラメータ+6",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-753499",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "使用コスト",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "-1",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "元気+9",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-758615",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "パラメータ+6",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "集中",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "集中+11",
+            "tierKey": "1"
+          },
+          {
+            "label": "集中+13",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "元気+9",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気+18",
+            "tierKey": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-763280",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "好調コスト",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好調消費1",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "集中",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "集中+9",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-768598",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "絶好調コスト",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "絶好調消費0",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "レッスン中1回の制限削除",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "レッスン中1回",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-712455",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "集中",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "集中+5",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好調",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好調6ターン",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-753492",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "やる気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "やる気+2",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好印象",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好印象+4",
+            "tierKey": "1"
+          },
+          {
+            "label": "好印象+5",
+            "tierKey": "2"
+          },
+          {
+            "label": "好印象+8",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "元気+4",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-753493",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "好印象",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好印象+2",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "やる気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "やる気+4",
+            "tierKey": "1"
+          },
+          {
+            "label": "やる気+5",
+            "tierKey": "2"
+          },
+          {
+            "label": "やる気+8",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "元気+6",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気+10",
+            "tierKey": "2"
+          },
+          {
+            "label": "元気+19",
+            "tierKey": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-692632",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "体力消費",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "体力消費2",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "条件変更",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "元気が15以上の場合、使用可",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "持続効果",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "元気の70%分パラメータ上昇",
+            "tierKey": "1"
+          },
+          {
+            "label": "元気の80%分パラメータ上昇",
+            "tierKey": "2"
+          },
+          {
+            "label": "元気の95%分パラメータ上昇",
+            "tierKey": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-758617",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "やる気コスト",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "やる気消費0",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好印象",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好印象+6",
+            "tierKey": "1"
+          },
+          {
+            "label": "好印象+7",
+            "tierKey": "2"
+          },
+          {
+            "label": "好印象+10",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "レッスン中1回の制限削除",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "レッスン中1回",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-753500",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "好印象",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好印象+10",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好印象",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好印象+2",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-753501",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "やる気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "やる気+9",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "元気+4",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-753502",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "使用コスト",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "-3",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "元気+12",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609930",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "好印象",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好印象+9",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好印象分パラメータ",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好印象の330%分パラメータ上昇",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-768600",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "元気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "元気+4",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "やる気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "元気+2",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-768597",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "条件変更",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好印象が6以上の場合、使用可",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好調",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好印象の130%分のパラメータ上昇",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-692630",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "条件変更",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好印象が10以上の場合",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "元気+4\n〔2回目の元気を追加〕",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-753494",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "温存",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "次のターン、温存に変更",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "パラメータ",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "パラメータ+19",
+            "tierKey": "1"
+          },
+          {
+            "label": "パラメータ+25",
+            "tierKey": "2"
+          },
+          {
+            "label": "パラメータ+43",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "元気+9",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-753495",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "温存",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "次のターン、温存に変更",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "全力値",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "全力値+4",
+            "tierKey": "1"
+          },
+          {
+            "label": "全力値+5",
+            "tierKey": "2"
+          },
+          {
+            "label": "全力値+7",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "元気+9",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-758618",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "強気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "強気2段階目に変更",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "全力値",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "全力値+4",
+            "tierKey": "1"
+          },
+          {
+            "label": "全力値+5",
+            "tierKey": "2"
+          },
+          {
+            "label": "全力値+7",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "保留",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "山札にあるスキルカードを選択し、\n保留に移動",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-692623",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "全力値",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "全力値+6",
+            "tierKey": "1"
+          },
+          {
+            "label": "全力値+7",
+            "tierKey": "2"
+          },
+          {
+            "label": "全力値+9",
+            "tierKey": "3"
+          }
+        ]
+      },
+      {
+        "label": "保留",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "山札にあるスキルカードを選択し、保留に移動",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "元気+9",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-712460",
+    "maxSelections": 3,
+    "slots": [
+      {
+        "label": "全力値コスト",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "全力値消費0",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "レッスン中1回の制限削除",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "レッスン中1回",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "成長",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "すべてのスキルカードのパラメータ値増加+1",
+            "tierKey": "1"
+          },
+          {
+            "label": "すべてのスキルカードのパラメータ値増加+2",
+            "tierKey": "2"
+          },
+          {
+            "label": "すべてのスキルカードのパラメータ値増加+5",
+            "tierKey": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-692628",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "強気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "強気2段階目に変更",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "成長",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "手札のパラメータ値増加+3",
+            "tierKey": "1"
+          },
+          {
+            "label": "手札のパラメータ値増加+8",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "開始時手札",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "レッスン開始時手札に入る",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-692625",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "全力値消費",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "全力値消費1",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "元気+9",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-753496",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "使用コスト",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "-2",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "元気+9",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-758616",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "全力値消費",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "全力値消費1",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "強気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "強気2段階目に変更",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "レッスン中1回の制限削除",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "レッスン中1回",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-692629",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "全力値",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "全力値+3",
+            "tierKey": "1"
+          },
+          {
+            "label": "全力値+5",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "保留",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "山札にあるスキルカードを選択し、保留に移動",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "開始時手札",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "レッスン開始時手札に入る",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-692627",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "強気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "強気に変更",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "温存",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "次のターン、温存に変更",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "保留",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "山札にあるスキルカードを選択し、保留に移動",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-692626",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "強気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "強気に変更",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "温存",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "次のターン、温存に変更",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-753503",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "温存",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "次のターン、温存に変更",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "元気+9",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-753504",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "保留",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "山札にあるスキルカードを選択し、保留に移動",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "元気+9",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-692631",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "温存",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "温存2段階目に変更",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "条件変更",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "温存になった回数が1回以上の場合、使用可",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-712457",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "使用コスト",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "-1",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "温存",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "温存2段階目に変更",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-768599",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "元気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "元気+4",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "パラメータ",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "パラメータ+24",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-768596",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "元気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "元気+9",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "全力値消費",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "全力値消費3",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-692624",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "温存",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "温存2段階目に変更",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "元気+9",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-758614",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "全力値消費",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "全力値消費1",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "成長",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "保留にあるスキルカードの\nパラメータ値増加+5",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-732466",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "好調コスト",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好調消費0",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好調",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好調2ターン",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-735249",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "条件変更",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好調が8ターン以上の場合",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "条件変更",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "集中が10以上の場合",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-756496",
+    "maxSelections": 2,
+    "slots": [
+      {
+        "label": "好印象",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好印象+5",
+            "tierKey": "1"
+          },
+          {
+            "label": "好印象+8",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "やる気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "やる気+4",
+            "tierKey": "1"
+          },
+          {
+            "label": "やる気+7",
+            "tierKey": "2"
+          }
+        ]
+      },
+      {
+        "label": "消費体力減少",
+        "slotKey": "C",
+        "tiers": [
+          {
+            "label": "消費体力減少2ターン",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-727920",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "使用コスト",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "0",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "好印象",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "好印象+2",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-756497",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "好印象",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好印象+7",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "やる気コスト",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "やる気消費1",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-758543",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "好印象",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好印象+2",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "やる気コスト",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "やる気消費1",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-760657",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "消費体力減少",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "消費体力減少2ターン",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "体力消費",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "体力消費1",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-746308",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "使用コスト",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "-1",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "元気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "元気+9",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-758546",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "元気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "元気+16",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "全力値",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "全力値+4",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-768372",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "全力値",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "全力値+5",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "強気",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "強気2段階目に変更",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609947",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "効果",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "ターン追加+1",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "スキルカード使用数",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "スキルカード使用数追加+1",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609948",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "効果",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "以降の3ターンの間、ターン終了時、\nパラメータ+5・体力消費1",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "スキルカード使用数",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "スキルカード使用数追加+1",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609952",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "効果",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "好印象強化+50%（5ターン）",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "スキルカード使用数",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "スキルカード使用数追加+1",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609949",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "効果変更",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "パラメータ+18（好調効果を2倍適用）\n好調状態の場合、パラメータ+20（集中効果を3倍適用）",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "スキルカード使用数",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "スキルカード使用数追加+1",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609954",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "開始時手札",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "レッスン開始時手札に入る",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "スキルカード使用数",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "スキルカード使用数追加+1",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609955",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "元気分パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "元気の180%分パラメータ上昇",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "スキルカード使用数",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "スキルカード使用数追加+1",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609951",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "パラメータ",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "次のターン、パラメータ+5\n2ターン後、パラメータ+5",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "スキルカード使用数",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "スキルカード使用数追加+1",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609953",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "元気",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "元気+3（やる気効果を1.5倍適用）",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "レッスン中1回の制限削除",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "レッスン中1回",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "g8-609950",
+    "maxSelections": 1,
+    "slots": [
+      {
+        "label": "効果変更",
+        "slotKey": "A",
+        "tiers": [
+          {
+            "label": "以降、ターン開始時、体力が50%以上の場合、集中+2\n体力回復5",
+            "tierKey": "1"
+          }
+        ]
+      },
+      {
+        "label": "スキルカード使用数",
+        "slotKey": "B",
+        "tiers": [
+          {
+            "label": "スキルカード使用数追加+1",
+            "tierKey": "1"
+          }
+        ]
+      }
+    ]
+  }
+]

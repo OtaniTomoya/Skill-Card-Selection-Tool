@@ -1,0 +1,155 @@
+[
+  {
+    "boostedCardIds": [
+      "g8-609884",
+      "g8-692629",
+      "g8-712460",
+      "g8-609937"
+    ],
+    "eventId": "asari-2026-03",
+    "featuredCardIds": [
+      "g8-609929",
+      "g8-609928",
+      "g8-609884",
+      "g8-609937",
+      "g8-712455",
+      "g8-609940",
+      "g8-609938",
+      "g8-609897",
+      "g8-609899",
+      "g8-624993"
+    ],
+    "label": "第5回 2026-03-09",
+    "mainPlan": "anomaly",
+    "notes": "学マスwiki掲載の特別出現カードと選出率上昇カードを反映。",
+    "period": "2026年3月9日(月)〜3月19日(木)",
+    "sourceUrls": [
+      "https://appgamelog.com/gkmas-asari-produce-seminar/",
+      "https://game8.jp/gakuen-idolmaster/768380",
+      "https://seesaawiki.jp/gakumasu/d/%A5%A4%A5%D9%A5%F3%A5%C8/%A4%A2%A4%B5%A4%EA%C0%E8%C0%B8%A4%CE%A5%D7%A5%ED%A5%C7%A5%E5%A1%BC%A5%B9%A5%BC%A5%DF"
+    ],
+    "status": "live",
+    "subPlan": "sense"
+  },
+  {
+    "boostedCardIds": [
+      "g8-624989",
+      "g8-692632",
+      "g8-609938",
+      "g8-609899"
+    ],
+    "eventId": "asari-2026-02",
+    "featuredCardIds": [
+      "g8-609937",
+      "g8-609939",
+      "g8-609940",
+      "g8-609938",
+      "g8-624991",
+      "g8-609894",
+      "g8-609899",
+      "g8-609898",
+      "g8-609893",
+      "g8-624993"
+    ],
+    "label": "第4回 2026-02-19",
+    "mainPlan": "logic",
+    "notes": "学マスwiki掲載の特別出現カードと選出率上昇カードを反映。",
+    "period": "2026年2月19日(木)〜2月27日(金)",
+    "sourceUrls": [
+      "https://appgamelog.com/gkmas-asari-produce-seminar/",
+      "https://seesaawiki.jp/gakumasu/d/%A5%A4%A5%D9%A5%F3%A5%C8/%A4%A2%A4%B5%A4%EA%C0%E8%C0%B8%A4%CE%A5%D7%A5%ED%A5%C7%A5%E5%A1%BC%A5%B9%A5%BC%A5%DF"
+    ],
+    "status": "archived",
+    "subPlan": "sense"
+  },
+  {
+    "boostedCardIds": [
+      "g8-609889",
+      "g8-624990",
+      "g8-609884",
+      "g8-609942"
+    ],
+    "eventId": "asari-2025-12",
+    "featuredCardIds": [
+      "g8-609930",
+      "g8-609889",
+      "g8-609851",
+      "g8-609941",
+      "g8-609942",
+      "g8-609943",
+      "g8-609946",
+      "g8-609905",
+      "g8-609910",
+      "g8-609904"
+    ],
+    "label": "第3回 2025-12-18",
+    "mainPlan": "sense",
+    "period": "2025年12月18日(木)〜12月26日(金)",
+    "sourceUrls": [
+      "https://appgamelog.com/gkmas-asari-produce-seminar/",
+      "https://seesaawiki.jp/gakumasu/d/%A5%A4%A5%D9%A5%F3%A5%C8/%A4%A2%A4%B5%A4%EA%C0%E8%C0%B8%A4%CE%A5%D7%A5%ED%A5%C7%A5%E5%A1%BC%A5%B9%A5%BC%A5%DF"
+    ],
+    "status": "archived",
+    "subPlan": "logic"
+  },
+  {
+    "boostedCardIds": [
+      "g8-654075",
+      "g8-624989",
+      "g8-654118",
+      "g8-609941"
+    ],
+    "eventId": "asari-2025-10",
+    "featuredCardIds": [
+      "g8-654075",
+      "g8-654074",
+      "g8-654071",
+      "g8-654085",
+      "g8-654089",
+      "g8-654093",
+      "g8-654070",
+      "g8-654068",
+      "g8-654078",
+      "g8-654092"
+    ],
+    "label": "第2回 2025-10-10",
+    "mainPlan": "logic",
+    "period": "2025年10月10日(金)〜10月21日(火)",
+    "sourceUrls": [
+      "https://appgamelog.com/gkmas-asari-produce-seminar/",
+      "https://seesaawiki.jp/gakumasu/d/%A5%A4%A5%D9%A5%F3%A5%C8/%A4%A2%A4%B5%A4%EA%C0%E8%C0%B8%A4%CE%A5%D7%A5%ED%A5%C7%A5%E5%A1%BC%A5%B9%A5%BC%A5%DF"
+    ],
+    "status": "archived",
+    "subPlan": "anomaly"
+  },
+  {
+    "boostedCardIds": [
+      "g8-654073",
+      "g8-654071",
+      "g8-654070",
+      "g8-609937"
+    ],
+    "eventId": "asari-2025-09",
+    "featuredCardIds": [
+      "g8-609929",
+      "g8-609928",
+      "g8-624986",
+      "g8-609937",
+      "g8-609940",
+      "g8-609938",
+      "g8-624991",
+      "g8-609897",
+      "g8-609899",
+      "g8-624993"
+    ],
+    "label": "第1回 2025-09-08",
+    "mainPlan": "anomaly",
+    "period": "2025年9月8日(月)〜9月17日(水)",
+    "sourceUrls": [
+      "https://appgamelog.com/gkmas-asari-produce-seminar/",
+      "https://seesaawiki.jp/gakumasu/d/%A5%A4%A5%D9%A5%F3%A5%C8/%A4%A2%A4%B5%A4%EA%C0%E8%C0%B8%A4%CE%A5%D7%A5%ED%A5%C7%A5%E5%A1%BC%A5%B9%A5%BC%A5%DF"
+    ],
+    "status": "archived",
+    "subPlan": "sense"
+  }
+]

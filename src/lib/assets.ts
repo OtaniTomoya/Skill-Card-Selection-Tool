@@ -1,0 +1,11 @@
+export function withBasePath(path: string): string {
+  const base = import.meta.env.BASE_URL
+
+  if (/^(?:https?:)?\/\//.test(path)) {
+    return path
+  }
+
+  const normalizedBase = base.endsWith('/') ? base : `${base}/`
+  const normalizedPath = path.startsWith('/') ? path.slice(1) : path
+  return `${normalizedBase}${normalizedPath}`
+}

@@ -1,0 +1,146 @@
+import type { EventSnapshot } from '../../src/types'
+
+type EventBlueprint = Omit<
+  EventSnapshot,
+  'boostedCardIds' | 'featuredCardIds' | 'eventId'
+> & {
+  eventId: string
+  boostedCardNames: string[]
+  featuredCardNames: string[]
+}
+
+export const EVENT_BLUEPRINTS: EventBlueprint[] = [
+  {
+    eventId: 'asari-2026-03',
+    label: '第5回 2026-03-09',
+    period: '2026年3月9日(月)〜3月19日(木)',
+    mainPlan: 'anomaly',
+    subPlan: 'sense',
+    boostedCardNames: ['シュプレヒコール', 'モチベ', '巻き返し', '国民的アイドル'],
+    featuredCardNames: [
+      '魅惑のパフォーマンス',
+      '成就',
+      'シュプレヒコール',
+      '国民的アイドル',
+      '天賦の才',
+      '天真爛漫',
+      '魅惑の視線',
+      '始まりの合図',
+      '存在感',
+      'ひと呼吸',
+    ],
+    status: 'live',
+    notes: '学マスwiki掲載の特別出現カードと選出率上昇カードを反映。',
+    sourceUrls: [
+      'https://appgamelog.com/gkmas-asari-produce-seminar/',
+      'https://game8.jp/gakuen-idolmaster/768380',
+      'https://seesaawiki.jp/gakumasu/d/%A5%A4%A5%D9%A5%F3%A5%C8/%A4%A2%A4%B5%A4%EA%C0%E8%C0%B8%A4%CE%A5%D7%A5%ED%A5%C7%A5%E5%A1%BC%A5%B9%A5%BC%A5%DF',
+    ],
+  },
+  {
+    eventId: 'asari-2026-02',
+    label: '第4回 2026-02-19',
+    period: '2026年2月19日(木)〜2月27日(金)',
+    mainPlan: 'logic',
+    subPlan: 'sense',
+    boostedCardNames: ['輝くキミへ', 'デイドリーミング', '魅惑の視線', '存在感'],
+    featuredCardNames: [
+      '国民的アイドル',
+      '鳴り止まない拍手',
+      '天真爛漫',
+      '魅惑の視線',
+      'スポットライト',
+      '演出計画',
+      '存在感',
+      '意地',
+      '大声援',
+      'ひと呼吸',
+    ],
+    status: 'archived',
+    notes: '学マスwiki掲載の特別出現カードと選出率上昇カードを反映。',
+    sourceUrls: [
+      'https://appgamelog.com/gkmas-asari-produce-seminar/',
+      'https://seesaawiki.jp/gakumasu/d/%A5%A4%A5%D9%A5%F3%A5%C8/%A4%A2%A4%B5%A4%EA%C0%E8%C0%B8%A4%CE%A5%D7%A5%ED%A5%C7%A5%E5%A1%BC%A5%B9%A5%BC%A5%DF',
+    ],
+  },
+  {
+    eventId: 'asari-2025-12',
+    label: '第3回 2025-12-18',
+    period: '2025年12月18日(木)〜12月26日(金)',
+    mainPlan: 'sense',
+    subPlan: 'logic',
+    boostedCardNames: [
+      'みんな大好き',
+      '至高のエンタメ',
+      'シュプレヒコール',
+      '星屑センセーション',
+    ],
+    featuredCardNames: [
+      '200% スマイル',
+      'みんな大好き',
+      'ゆるふわおしゃべり',
+      '私がスター',
+      '星屑センセーション',
+      'ノートの端の決意',
+      '虹色ドリーマー',
+      'ワクワクが止まらない',
+      'ゆめみごこち',
+      'ファンシーチャーム',
+    ],
+    status: 'archived',
+    sourceUrls: [
+      'https://appgamelog.com/gkmas-asari-produce-seminar/',
+      'https://seesaawiki.jp/gakumasu/d/%A5%A4%A5%D9%A5%F3%A5%C8/%A4%A2%A4%B5%A4%EA%C0%E8%C0%B8%A4%CE%A5%D7%A5%ED%A5%C7%A5%E5%A1%BC%A5%B9%A5%BC%A5%DF',
+    ],
+  },
+  {
+    eventId: 'asari-2025-10',
+    label: '第2回 2025-10-10',
+    period: '2025年10月10日(金)〜10月21日(火)',
+    mainPlan: 'logic',
+    subPlan: 'anomaly',
+    boostedCardNames: ['総合芸術', '輝くキミへ', 'きらきら紙吹雪', '私がスター'],
+    featuredCardNames: [
+      '総合芸術',
+      '心・技・体',
+      '全身全霊',
+      'オープニングアクト',
+      'せーのっ！',
+      '精一杯',
+      'アイドルになります',
+      '覚悟',
+      '忍耐力',
+      'ハッピー',
+    ],
+    status: 'archived',
+    sourceUrls: [
+      'https://appgamelog.com/gkmas-asari-produce-seminar/',
+      'https://seesaawiki.jp/gakumasu/d/%A5%A4%A5%D9%A5%F3%A5%C8/%A4%A2%A4%B5%A4%EA%C0%E8%C0%B8%A4%CE%A5%D7%A5%ED%A5%C7%A5%E5%A1%BC%A5%B9%A5%BC%A5%DF',
+    ],
+  },
+  {
+    eventId: 'asari-2025-09',
+    label: '第1回 2025-09-08',
+    period: '2025年9月8日(月)〜9月17日(水)',
+    mainPlan: 'anomaly',
+    subPlan: 'sense',
+    boostedCardNames: ['輝け！', '全身全霊', 'アイドルになります', '国民的アイドル'],
+    featuredCardNames: [
+      '魅惑のパフォーマンス',
+      '成就',
+      '覚醒',
+      '国民的アイドル',
+      '天真爛漫',
+      '魅惑の視線',
+      'スポットライト',
+      '始まりの合図',
+      '存在感',
+      'ひと呼吸',
+    ],
+    status: 'archived',
+    sourceUrls: [
+      'https://appgamelog.com/gkmas-asari-produce-seminar/',
+      'https://seesaawiki.jp/gakumasu/d/%A5%A4%A5%D9%A5%F3%A5%C8/%A4%A2%A4%B5%A4%EA%C0%E8%C0%B8%A4%CE%A5%D7%A5%ED%A5%C7%A5%E5%A1%BC%A5%B9%A5%BC%A5%DF',
+    ],
+  },
+]
